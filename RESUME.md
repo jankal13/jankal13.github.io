@@ -1,109 +1,93 @@
 # Dr. Jan Kalbantner
-Senior Information Security Manager
-| [jan@kalbantner.com](mailto:jan@kalbantner.com)
-| [+49 151 5877 5206](tel:+4915158775206)
-| [kalbantner.com](https://www.kalbantner.com)
+Senior Information Security Manager  
+| [jan@kalbantner.com](mailto:jan@kalbantner.com)  
+| [+49 151 5877 5206](tel:+4915158775206)  
+| [kalbantner.com](https://www.kalbantner.com)  
 | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ## About me
-Accomplished IT security professional with 10+ years’ experience, including 7+ years specialising in cyber security & privacy. Demonstrated proficiency in enforcing stringent security standards, conducting thorough security assessments and  performing code reviews. Proven leadership skills in safeguarding scalable cloud & microarchitectures as well as leasing internal & external teams to success. Highly experienced in different roles with a proven track record of success across different industries including manufacturing, financial services, consulting and automobile.
+Seasoned information security expert with extensive experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting and automobile.
+
 
 ## Work Experience
 
 ### Senior Information Security Manager, Porsche
-Stuttgart, Germany | Hybrid
-*May 2024 - Present*
+Stuttgart, Germany | Hybrid  
+*June 2024 - Present*  
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
-
+- Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
+- Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
+- Managed 7 external teammembers and a budget of 1.700.000 EUR
+- Planned a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM.
+- Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security.
 
 
 
 ### Cyber Security Manager, KPMG Ignition Tokyo
-Tokyo, Japan | Hybrid
-*September 2023 - May 2024*
+Tokyo, Japan | Hybrid  
+*September 2023 - May 2024*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
-
+- Boosted security efficiency by 20% through significant security initiatives.  
+- Played a key role in SIEM, SOC monitoring, and triage operations using Microsoft Sentinel, decreasing response times by 50%.  
+- Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.  
+- Executed forensic analysis and advanced security operations for incident response.  
 
 
 ### Chief Information Security Officer, Wechselgott
-Tokyo, Japan | Remote
-*September 2022 - August 2023*
+Remote  
+*September 2022 - August 2023*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
+- Achieved full compliance with ISO 27001:2022, OWASP Top 10, and NIST 800-53.  
+- Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
+- Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
 
 ### IT Infrastructure & Cybersecurity Manager, Wechselgott
-London, United Kingdom | Remote
-*June 2020 - September 2022*
+Remote  
+*June 2020 - September 2022*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Strengthened security and privacy controls for company infrastructure.  
+- Oversaw the enhancement of the company's security posture, aligning with international standards.  
 
 ### IT Infrastructure & Cybersecurity Specialist, Wechselgott
-London, United Kingdom | Remote
-*May 2019 - June 2020*
+Remote  
+*May 2019 - June 2020*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
 
 
 
 ### Doctoral Researcher, Royal Holloway University of London
-London, United Kingdom | Hybrid
-*June 2019 - May 2023*
+London, United Kingdom | Hybrid  
+*October 2019 - May 2023*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Researched "Security and privacy issues of distributed, cooperative, and complex P2P systems," resulting in eight peer-reviewed publications.  
+- Engaged in lecturing roles in Information Security and Network Security.  
 
-
-### Research Assistant, Royal Holloway University of London
-London, United Kingdom | On-Site
-*October 2019 - July 2020*
-
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
 
 
 
 ### IT Consultant, K13 Solutions (Self-Employed)
-Heidelberg, Germany | Remote
-*September 2017 - May 2019*
+Heidelberg, Germany | Remote  
+*May 2015 - June 2020*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
-
+- Conducted over 50 security audits to ensure 100% compliance with ISO 27001 and EBA standards.  
+- Led development projects for secure web and mobile applications using TypeScript, C#, Kotlin, and Swift.  
 
 
 
-### IT Application Consultant, Bürkert Group
-Ingelfingen, Germany | On-Site
-*September 2016 - September 2017*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+### IT Application Consultant, Bürkert Fluid Control Systems
+Ingelfingen, Germany | On-Site  
+*August 2016 - September 2017*  
 
+- Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.  
 
-### Graduate Student Programme, Bürkert Group
-Ingelfingen, Germany | On-Site
-*June 2013 - September 2016*
+### Graduate Programme, Bürkert Fluid Control Systems
+Ingelfingen, Germany | On-Site  
+*June 2013 - August 2016*  
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
-
+- Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
 
 
 
@@ -129,55 +113,48 @@ Ingelfingen, Germany | On-Site
 
 
 
+
+
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-
-
+- **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud  
+- **Tools**: Docker, Kubernetes, Terraform, Pulumi, Microsoft Azure Blueprints  
+- **Security Tools**: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk)  
+- **Programming Languages**: Python, C#, JavaScript, Kotlin, PowerShell  
+- **Standards**: ISO 27001, GDPR, OWASP Top 10, BSI 200, EBA (similar to FISC)
 
 ## Certifications
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
-
-
-
-
-## Projects
-
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
-
-
-
+- Offensive Security Certified Professional (OSCP) Training Course – 2024
+- Rochester Institute of Technology, Computer Forensics - 2024
+- IBM Generative AI for Cybersecurity Professionals Specialization – 2024  
+- Microsoft Cybersecurity Analyst Certificate – 2023  
+- Google Cybersecurity Certificate – 2023
+- Google Project Management Certificate / Agile project management - 2021
+- DSGVO / GDPR Specialist Certification (TÜV SÜD) – 2021
+- Certificates: [https://www.credly.com/users/jan-kalbantner](https://www.credly.com/users/jan-kalbantner)  
 
 ## Publications
 
-
-
-
-## Social Good
-
-
-
-
-## Languages
-
-- English: Fluent
-- Swahili: Native
-
+- [Security and Privacy Issues of Distributed, Complex P2P Smart Grid Marketplace Systems](https://pure.royalholloway.ac.uk/ws/portalfiles/portal/63153877/main.pdf) (2024)
+- [ZKP Enabled Identity and Reputation Verification in P2P Marketplaces](https://ieeexplore.ieee.org/abstract/document/10664332) (2024)  
+- [A Side-Channel Analysis of Sensor Multiplexing for Covert Channels and Application Profiling on Mobile Devices](https://ieeexplore.ieee.org/abstract/document/10278225)(2023)
+- [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/abs/2105.02937) (2021)
+- [P2PEdge: A Decentralized, Scalable P2P Architecture for Energy Trading in Real-Time](https://www.mdpi.com/1996-1073/14/3/606) (2021)
+- [A study on microarchitectural covert channel vulnerabilities in infrastructure-as-a-service](https://link.springer.com/chapter/10.1007/978-3-030-61638-0_20) (2020)
+- [One covert channel to rule them all: A practical approach to data exfiltration in the cloud](https://ieeexplore.ieee.org/abstract/document/9343152) (2020)
+- [Leaky Controller: Cross-VM Memory Controller Covert Channel on Multi-Core Systems](https://link.springer.com/chapter/10.1007/978-3-030-58201-2_1) (2020)
+- [Rowhammer – from DRAM faults to escalating privileges](https://www.computerweekly.com/ehandbook/Royal-Holloway-Rowhammer-from-DRAM-faults-to-escalating-privileges) (2020)
+- [Software-based Microarchitectural Fault Attack](https://www.royalholloway.ac.uk/media/14911/techreport-kalbantnerj.pdf) (2018) 
+- **Also available on:** [Google Scholar](https://scholar.google.com/citations?user=o78MpxYAAAAJ)  
 
 
 
 ## Interests
 
-- Hiking
-- Technology
-- Photography
+- Human Rights
+- Research & Technology
+- Health
+
+
+

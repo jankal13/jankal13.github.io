@@ -1,5 +1,7 @@
 # Dr. Jan Kalbantner
-Cybersecurity Manager | [jan@kalbantner.com](mailto:jan@kalbantner.com) | [+49 151 5877 5206](tel:+4915158775206) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
+Cybersecurity Manager
+
+[jan@kalbantner.com](mailto:jan@kalbantner.com) | [+49 151 5877 5206](tel:+4915158775206) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### About me
 Seasoned information security expert with extensive experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting and automobile.

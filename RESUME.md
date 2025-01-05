@@ -12,7 +12,6 @@ Seasoned information security expert with extensive experience in cybersecurity 
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  
 *June 2024 - Present*  
-
 - Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
 - Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
 - Managed 7 external teammembers and a budget of 1.700.000 EUR
@@ -24,7 +23,6 @@ Stuttgart, Germany | Hybrid
 #### Cyber Security Manager, KPMG Ignition Tokyo
 Tokyo, Japan | Hybrid  
 *September 2023 - May 2024*  
-
 - Boosted security efficiency by 20% through significant security initiatives.  
 - Played a key role in SIEM, SOC monitoring, and triage operations using Microsoft Sentinel, decreasing response times by 50%.  
 - Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.  
@@ -32,25 +30,22 @@ Tokyo, Japan | Hybrid
 
 
 #### Chief Information Security Officer, Wechselgott
-Remote  
+Tokyo, Japan | Remote  
 *September 2022 - August 2023*  
-
 - Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
 - Achieved full compliance with ISO 27001:2022, OWASP Top 10, and NIST 800-53.  
 - Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
 - Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
-Remote  
+London, United Kingdom | Remote  
 *June 2020 - September 2022*  
-
 - Strengthened security and privacy controls for company infrastructure.  
 - Oversaw the enhancement of the company's security posture, aligning with international standards.  
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
-Remote  
+London, United Kingdom | Remote  
 *May 2019 - June 2020*  
-
 - Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
 
 
@@ -58,9 +53,17 @@ Remote
 #### Doctoral Researcher, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - May 2023*  
-
-- Researched "Security and privacy issues of distributed, cooperative, and complex P2P systems," resulting in eight peer-reviewed publications.  
+- Researched "Security and privacy issues of distributed, cooperative, and complex P2P systems" resulting in various peer-reviewed publications.  
 - Engaged in lecturing roles in Information Security and Network Security.  
+
+
+#### Research Assistant, Royal Holloway University of London
+London, United Kingdom | Hybrid  
+*October 2019 - July 2020*  
+- Teaching and tutoring of students for 3 different classes.
+- Preparation of lectures.
+- Management of classes.
+
 
 
 
@@ -68,25 +71,25 @@ London, United Kingdom | Hybrid
 #### IT Consultant, K13 Solutions (Self-Employed)
 Heidelberg, Germany | Remote  
 *May 2015 - June 2020*  
-
-- Conducted over 50 security audits to ensure 100% compliance with ISO 27001 and EBA standards.  
-- Led development projects for secure web and mobile applications using TypeScript, C#, Kotlin, and Swift.  
-
+- Conducted over 50 security audits (penetration tests) to ensure 100% compliance with ISO 27001 and EBA standards.  
+- Led 4 medium-scale development projects for secure web and mobile applications.  
+- Utilized various programming languages including TypeScript, C#, Kotlin, and Swift.
+- Management and improvement of the server infrastructure of differnt clients.
 
 
 
 #### IT Application Consultant, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
 *August 2016 - September 2017*  
+- Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.
+- Management of 5 different applications and responsible for their continous improvement and error-free working.
 
-- Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.  
 
 #### Graduate Programme, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
 *June 2013 - August 2016*  
-
 - Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
-
+- Utilized various programming languages including ABAP, Java, C#, JavaScript as full-stack developer.
 
 
 

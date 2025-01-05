@@ -134,7 +134,7 @@ Ingelfingen, Germany | On-Site
 - Google Cybersecurity Certificate – 2023
 - Google Project Management Certificate / Agile project management - 2021
 - DSGVO / GDPR Specialist Certification (TÜV SÜD) – 2021
-- Certificates: [https://www.credly.com/users/jan-kalbantner](https://www.credly.com/users/jan-kalbantner)  
+- More certificates can be found here: [https://www.credly.com/users/jan-kalbantner](https://www.credly.com/users/jan-kalbantner)  
 
 ### Publications
 
@@ -156,7 +156,9 @@ Ingelfingen, Germany | On-Site
 
 - Human Rights
 - Research & Technology
-- Health
+- Health & Longevity
+- Bouldering
+- Photography
 
 
 

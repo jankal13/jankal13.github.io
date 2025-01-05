@@ -54,7 +54,7 @@ def pre_render():
                     "pagetitle": title,
                 },
                 "pdf": {
-                    "output-file": "index.pdf"
+                    "output-file": "jan_kalbantner_resume.pdf"
                 }
             }
         }

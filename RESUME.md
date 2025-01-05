@@ -33,36 +33,37 @@ Tokyo, Japan | Hybrid
 Tokyo, Japan | Remote  
 *September 2022 - August 2023*  
 - Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
-- Achieved full compliance with ISO 27001:2022, OWASP Top 10, and NIST 800-53.  
+- Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz) and NIST 800-53.  
 - Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
 - Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Remote  
 *June 2020 - September 2022*  
-- Strengthened security and privacy controls for company infrastructure.  
-- Oversaw the enhancement of the company's security posture, aligning with international standards.  
+- Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
+- Introduction of security and privacy by design to all areas within the company.
+- Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
 London, United Kingdom | Remote  
 *May 2019 - June 2020*  
 - Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
-
+- Conducted security audits and code review of infrastructure and software.
 
 
 #### Doctoral Researcher, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - May 2023*  
-- Researched "Security and privacy issues of distributed, cooperative, and complex P2P systems" resulting in various peer-reviewed publications.  
-- Engaged in lecturing roles in Information Security and Network Security.  
-
+- Academic research in security and privacy of P2P systems resulting in 8 peer-reviewed publications.
+- Analyzing data, formulated theses and proofing them by conducting various experiments.
+- Worked on self-managed projects for the doctoral thesis (PhD thesis).
 
 #### Research Assistant, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - July 2020*  
-- Teaching and tutoring of students for 3 different classes.
-- Preparation of lectures.
-- Management of classes.
+- Lecturing and managing of students for 3 different classes including information security, network security and smart cards.
+- Collecting, compiling, and analyzing data.
+- Assisting with administrative tasks and supervision of students.
 
 
 

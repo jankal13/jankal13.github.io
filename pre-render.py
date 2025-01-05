@@ -36,8 +36,8 @@ def pre_render():
                             "href": f"mailto:{secondary_email}"
                         },
                         {
-                            "text": "<i>Create your resume</i>",
-                            "href": "https://toknow.ai/posts/quarto-resume-template/"
+                            "text": "LinkedIn",
+                            "href": "https://in.kalbantner.com"
                         },
                     ]
                 },

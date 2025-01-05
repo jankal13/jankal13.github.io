@@ -138,16 +138,16 @@ Ingelfingen, Germany | On-Site
 
 ### Publications
 
-- Kalbantner (2024) <i>Security and Privacy Issues of Distributed, Complex P2P Smart Grid Marketplace Systems</i>. PhD thesis. Available at: [https://pure.royalholloway.ac.uk/ws/portalfiles/portal/63153877/main.pdf](https://pure.royalholloway.ac.uk/ws/portalfiles/portal/63153877/main.pdf).
-- Kalbantner et al. (2024) ZKP Enabled Identity and Reputation Verification in P2P Marketplaces. Available at: [https://ieeexplore.ieee.org/abstract/document/10664332](https://ieeexplore.ieee.org/abstract/document/10664332).
-- Shepherd, Kalbantner, Semal, Markantonakis (2023) A Side-Channel Analysis of Sensor Multiplexing for Covert Channels and Application Profiling on Mobile Devices. Available at: [https://ieeexplore.ieee.org/abstract/document/10278225](https://ieeexplore.ieee.org/abstract/document/10278225).
-- Kalbantner et al. (2021) A DLT-based Smart Contract Architecture for Atomic and Scalable Trading. Available at: [https://arxiv.org/abs/2105.02937](https://arxiv.org/abs/2105.02937).
-- Kalbantner et al. (2021) P2PEdge: A Decentralized, Scalable P2P Architecture for Energy Trading in Real-Time. Available at: [https://www.mdpi.com/1996-1073/14/3/606](https://www.mdpi.com/1996-1073/14/3/606).
-- Semal, Markantonakis, Akram, Kalbantner (2020) A study on microarchitectural covert channel vulnerabilities in infrastructure-as-a-service. Available at: [https://link.springer.com/chapter/10.1007/978-3-030-61638-0_20](https://link.springer.com/chapter/10.1007/978-3-030-61638-0_20).
-- Semal, Markantonakis, Mayes, Kalbantner (2020) One covert channel to rule them all: A practical approach to data exfiltration in the cloud. Available at: [https://ieeexplore.ieee.org/abstract/document/9343152](https://ieeexplore.ieee.org/abstract/document/9343152).
-- Semal, Markantonakis, Akram, Kalbantner (2020) Leaky Controller: Cross-VM Memory Controller Covert Channel on Multi-Core Systems. Available at: [https://link.springer.com/chapter/10.1007/978-3-030-58201-2_1](https://link.springer.com/chapter/10.1007/978-3-030-58201-2_1).
-- Kalbantner (2020) Rowhammer – from DRAM faults to escalating privileges. Available at: [https://www.computerweekly.com/ehandbook/Royal-Holloway-Rowhammer-from-DRAM-faults-to-escalating-privileges](https://www.computerweekly.com/ehandbook/Royal-Holloway-Rowhammer-from-DRAM-faults-to-escalating-privileges) (2020)
-- Kalbantner (2018) Software-based Microarchitectural Fault Attack. MSc thesis. Available at: [https://www.royalholloway.ac.uk/media/14911/techreport-kalbantnerj.pdf](https://www.royalholloway.ac.uk/media/14911/techreport-kalbantnerj.pdf).
+- Kalbantner (2024) *Security and Privacy Issues of Distributed, Complex P2P Smart Grid Marketplace Systems*. PhD thesis. Available at: [https://pure.royalholloway.ac.uk/ws/portalfiles/portal/63153877/main.pdf](https://pure.royalholloway.ac.uk/ws/portalfiles/portal/63153877/main.pdf).
+- Kalbantner et al. (2024) *ZKP Enabled Identity and Reputation Verification in P2P Marketplaces*. Available at: [https://ieeexplore.ieee.org/abstract/document/10664332](https://ieeexplore.ieee.org/abstract/document/10664332).
+- Shepherd, Kalbantner, Semal, Markantonakis (2023) *A Side-Channel Analysis of Sensor Multiplexing for Covert Channels and Application Profiling on Mobile Devices*. Available at: [https://ieeexplore.ieee.org/abstract/document/10278225](https://ieeexplore.ieee.org/abstract/document/10278225).
+- Kalbantner et al. (2021) *A DLT-based Smart Contract Architecture for Atomic and Scalable Trading*. Available at: [https://arxiv.org/abs/2105.02937](https://arxiv.org/abs/2105.02937).
+- Kalbantner et al. (2021) *P2PEdge: A Decentralized, Scalable P2P Architecture for Energy Trading in Real-Time*. Available at: [https://www.mdpi.com/1996-1073/14/3/606](https://www.mdpi.com/1996-1073/14/3/606).
+- Semal, Markantonakis, Akram, Kalbantner (2020) *A study on microarchitectural covert channel vulnerabilities in infrastructure-as-a-service*. Available at: [https://link.springer.com/chapter/10.1007/978-3-030-61638-0_20](https://link.springer.com/chapter/10.1007/978-3-030-61638-0_20).
+- Semal, Markantonakis, Mayes, Kalbantner (2020) *One covert channel to rule them all: A practical approach to data exfiltration in the cloud*. Available at: [https://ieeexplore.ieee.org/abstract/document/9343152](https://ieeexplore.ieee.org/abstract/document/9343152).
+- Semal, Markantonakis, Akram, Kalbantner (2020) *Leaky Controller: Cross-VM Memory Controller Covert Channel on Multi-Core Systems*. Available at: [https://link.springer.com/chapter/10.1007/978-3-030-58201-2_1](https://link.springer.com/chapter/10.1007/978-3-030-58201-2_1).
+- Kalbantner (2020) *Rowhammer – from DRAM faults to escalating privileges*. Available at: [https://www.computerweekly.com/ehandbook/Royal-Holloway-Rowhammer-from-DRAM-faults-to-escalating-privileges](https://www.computerweekly.com/ehandbook/Royal-Holloway-Rowhammer-from-DRAM-faults-to-escalating-privileges).
+- Kalbantner (2018) *Software-based Microarchitectural Fault Attack*. MSc thesis. Available at: [https://www.royalholloway.ac.uk/media/14911/techreport-kalbantnerj.pdf](https://www.royalholloway.ac.uk/media/14911/techreport-kalbantnerj.pdf).
 - Also available on: [Google Scholar](https://scholar.google.com/citations?user=o78MpxYAAAAJ)  
 
 

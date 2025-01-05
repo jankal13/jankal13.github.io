@@ -13,8 +13,8 @@ website:
     border: true
     background: dark
     center: 
-      - text: "<b>Download PDF</b>"
-        href: /index.pdf
+      - text: "<b>Download CV</b>"
+        href: /jan_kalbantner_resume.pdf
 format-links: false
 format:
   html:

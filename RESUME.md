@@ -1,7 +1,7 @@
 # Dr. Jan Kalbantner
 Cybersecurity Manager
 
-[jan@kalbantner.com](mailto:jan@kalbantner.com) | [+49 151 5877 5206](tel:+4915158775206) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
+[cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### About me
 Seasoned information security expert with extensive experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting and automobile.
@@ -12,58 +12,58 @@ Seasoned information security expert with extensive experience in cybersecurity 
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  
 *June 2024 - Present*  
-- Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
-- Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
-- Managed 7 external teammembers and a budget of 1.700.000 EUR
-- Planned a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM.
-- Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security.
++ Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
++ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
++ Managed 7 external teammembers and a budget of 1.700.000 EUR
++ Planned a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM.
++ Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security.
 
 
 
 #### Cyber Security Manager, KPMG Ignition Tokyo
 Tokyo, Japan | Hybrid  
 *September 2023 - May 2024*  
-- Boosted security efficiency by 20% through significant security initiatives.  
-- Played a key role in SIEM, SOC monitoring, and triage operations using Microsoft Sentinel, decreasing response times by 50%.  
-- Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.  
-- Executed forensic analysis and advanced security operations for incident response.  
++ Boosted security efficiency by 20% through significant security initiatives.  
++ Played a key role in SIEM, SOC monitoring, and triage operations using Microsoft Sentinel, decreasing response times by 50%.  
++ Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.  
++ Executed forensic analysis and advanced security operations for incident response.  
 
 
 #### Chief Information Security Officer, Wechselgott
 Tokyo, Japan | Remote  
 *September 2022 - August 2023*  
-- Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
-- Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz) and NIST 800-53.  
-- Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
-- Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
++ Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
++ Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz) and NIST 800-53.  
++ Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
++ Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Remote  
 *June 2020 - September 2022*  
-- Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
-- Introduction of security and privacy by design to all areas within the company.
-- Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.
++ Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
++ Introduction of security and privacy by design to all areas within the company.
++ Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
 London, United Kingdom | Remote  
 *May 2019 - June 2020*  
-- Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
-- Conducted security audits and code review of infrastructure and software.
-
++ Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
++ Conducted security audits and code review of infrastructure and software.
+  
 
 #### Doctoral Researcher, Royal Holloway University of London
 London, United Kingdom | Hybrid  
-*October 2019 - May 2023*  
-- Academic research in security and privacy of P2P systems resulting in 8 peer-reviewed publications.
-- Analyzing data, formulated theses and proofing them by conducting various experiments.
-- Worked on self-managed projects for the doctoral thesis (PhD thesis).
+*October 2019 - May 2023*
++ Academic research in security and privacy of P2P systems resulting in 8 peer-reviewed publications.
++ Analyzing data, formulated theses and proofing them by conducting various experiments.
++ Worked on self-managed projects for the doctoral thesis (PhD thesis).
 
 #### Research Assistant, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - July 2020*  
-- Lecturing and managing of students for 3 different classes including information security, network security and smart cards.
-- Collecting, compiling, and analyzing data.
-- Assisting with administrative tasks and supervision of students.
++ Lecturing and managing of students for 3 different classes including information security, network security and smart cards.
++ Collecting, compiling, and analyzing data.
++ Assisting with administrative tasks and supervision of students.
 
 
 
@@ -72,25 +72,25 @@ London, United Kingdom | Hybrid
 #### IT Consultant, K13 Solutions (Self-Employed)
 Heidelberg, Germany | Remote  
 *May 2015 - June 2020*  
-- Conducted over 50 security audits (penetration tests) to ensure 100% compliance with ISO 27001 and EBA standards.  
-- Led 4 medium-scale development projects for secure web and mobile applications.  
-- Utilized various programming languages including TypeScript, C#, Kotlin, and Swift.
-- Management and improvement of the server infrastructure of differnt clients.
++ Conducted over 50 security audits (penetration tests) to ensure 100% compliance with ISO 27001 and EBA standards.  
++ Led 4 medium-scale development projects for secure web and mobile applications.  
++ Utilized various programming languages including TypeScript, C#, Kotlin, and Swift.
++ Management and improvement of the server infrastructure of differnt clients.
 
 
 
 #### IT Application Consultant, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
 *August 2016 - September 2017*  
-- Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.
-- Management of 5 different applications and responsible for their continous improvement and error-free working.
-
++ Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.
++ Management of 5 different applications and responsible for their continous improvement and error-free working.
+  
 
 #### Graduate Programme, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
 *June 2013 - August 2016*  
-- Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
-- Utilized various programming languages including ABAP, Java, C#, JavaScript as full-stack developer.
++ Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
++ Utilized various programming languages including ABAP, Java, C#, JavaScript as full-stack developer.
 
 
 

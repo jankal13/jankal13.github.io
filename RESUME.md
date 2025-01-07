@@ -11,7 +11,8 @@ Seasoned information security expert with extensive experience in cybersecurity 
 
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  
-*June 2024 - Present*  
+*June 2024 - Present*
+
 + Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
 + Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
 + Managed 7 external teammembers and a budget of 1.700.000 EUR
@@ -22,7 +23,8 @@ Stuttgart, Germany | Hybrid
 
 #### Cyber Security Manager, KPMG Ignition Tokyo
 Tokyo, Japan | Hybrid  
-*September 2023 - May 2024*  
+*September 2023 - May 2024*
+
 + Boosted security efficiency by 20% through significant security initiatives.  
 + Played a key role in SIEM, SOC monitoring, and triage operations using Microsoft Sentinel, decreasing response times by 50%.  
 + Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.  
@@ -31,7 +33,8 @@ Tokyo, Japan | Hybrid
 
 #### Chief Information Security Officer, Wechselgott
 Tokyo, Japan | Remote  
-*September 2022 - August 2023*  
+*September 2022 - August 2023*
+
 + Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
 + Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz) and NIST 800-53.  
 + Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
@@ -39,14 +42,16 @@ Tokyo, Japan | Remote
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Remote  
-*June 2020 - September 2022*  
+*June 2020 - September 2022*
+
 + Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
 + Introduction of security and privacy by design to all areas within the company.
 + Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
 London, United Kingdom | Remote  
-*May 2019 - June 2020*  
+*May 2019 - June 2020*
+
 + Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
 + Conducted security audits and code review of infrastructure and software.
   
@@ -54,13 +59,16 @@ London, United Kingdom | Remote
 #### Doctoral Researcher, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - May 2023*
+
 + Academic research in security and privacy of P2P systems resulting in 8 peer-reviewed publications.
 + Analyzing data, formulated theses and proofing them by conducting various experiments.
 + Worked on self-managed projects for the doctoral thesis (PhD thesis).
 
+
 #### Research Assistant, Royal Holloway University of London
 London, United Kingdom | Hybrid  
-*October 2019 - July 2020*  
+*October 2019 - July 2020*
+
 + Lecturing and managing of students for 3 different classes including information security, network security and smart cards.
 + Collecting, compiling, and analyzing data.
 + Assisting with administrative tasks and supervision of students.
@@ -71,7 +79,8 @@ London, United Kingdom | Hybrid
 
 #### IT Consultant, K13 Solutions (Self-Employed)
 Heidelberg, Germany | Remote  
-*May 2015 - June 2020*  
+*May 2015 - June 2020*
+
 + Conducted over 50 security audits (penetration tests) to ensure 100% compliance with ISO 27001 and EBA standards.  
 + Led 4 medium-scale development projects for secure web and mobile applications.  
 + Utilized various programming languages including TypeScript, C#, Kotlin, and Swift.
@@ -81,14 +90,16 @@ Heidelberg, Germany | Remote
 
 #### IT Application Consultant, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
-*August 2016 - September 2017*  
+*August 2016 - September 2017*
+
 + Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.
 + Management of 5 different applications and responsible for their continous improvement and error-free working.
   
 
 #### Graduate Programme, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
-*June 2013 - August 2016*  
+*June 2013 - August 2016*
+
 + Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
 + Utilized various programming languages including ABAP, Java, C#, JavaScript as full-stack developer.
 

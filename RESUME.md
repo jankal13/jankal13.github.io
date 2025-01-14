@@ -14,10 +14,10 @@ Stuttgart, Germany | Hybrid
 *June 2024 - Present*
 
 + Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
-+ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
 + Managed 7 external teammembers and a budget of 1.700.000 EUR
++ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
 + Planned a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM.
-+ Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security.
++ Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security including topics such as CASB, NGFW, DLP, system hardening, creation of new security policies, etc.
 
 
 
@@ -130,11 +130,11 @@ Ingelfingen, Germany | On-Site
 
 ### Skills
 
-- **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud  
-- **Tools**: Docker, Kubernetes, Terraform, Pulumi, Microsoft Azure Blueprints  
-- **Security Tools**: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk)  
-- **Programming Languages**: Python, C#, JavaScript, Kotlin, PowerShell  
-- **Standards**: ISO 27001, GDPR, OWASP Top 10, BSI 200, EBA (similar to FISC)
+- Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud  
+- Tools: Docker, Kubernetes, Terraform, Pulumi, Microsoft Azure Blueprints  
+- Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto NGFW/CASB/DLP
+- Programming Languages: Python, C#, JavaScript, Kotlin, PowerShell  
+- Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5 EBA (similar to FISC)
 
 ### Certifications
 

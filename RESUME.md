@@ -131,7 +131,7 @@ Ingelfingen, Germany | On-Site
 ### Skills
 
 - Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud  
-- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints  
+- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints, Microsoft PAM, Microsoft Defender for Cloud  
 - Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
 - Programming Languages: Python, C#, JavaScript, Kotlin, PowerShell  
 - Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA (similar to FISC)

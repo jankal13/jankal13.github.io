@@ -14,7 +14,7 @@ Stuttgart, Germany | Hybrid
 *June 2024 - Present*
 
 + Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
-+ Managed 7 external teammembers and a budget of 1.700.000 EUR
++ Managed 7 external teammembers and a budget of 1.700.000 EUR.
 + Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
 + Planned a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM.
 + Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security including topics such as CASB, NGFW, DLP, system hardening, creation of new security policies, etc.
@@ -44,6 +44,7 @@ Tokyo, Japan | Remote
 London, United Kingdom | Remote  
 *June 2020 - September 2022*
 
++ Led 5 people as part of the infrastructure and security team.
 + Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
 + Introduction of security and privacy by design to all areas within the company.
 + Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.

@@ -25,10 +25,11 @@ Stuttgart, Germany | Hybrid
 Tokyo, Japan | Hybrid  
 *September 2023 - May 2024*
 
-+ Boosted security efficiency by 20% through significant security initiatives.  
-+ Played a key role in SIEM, SOC monitoring, and triage operations using Microsoft Sentinel, decreasing response times by 50%.  
-+ Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.  
-+ Executed forensic analysis and advanced security operations for incident response.  
++ Boosted incident resolution efficiency by 20% through significant security initiatives such as security workflows.  
++ Played a key role in SIEM, SOAR, SOC monitoring, and triage operations using Microsoft Sentinel, reducing response times by 50%.  
++ Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.
++ Enhanced incident response times by 60% by developing and conducting training sessions on incident response best practices.  
++ Executed forensic analysis and advanced security operations for incident response.
 
 
 #### Chief Information Security Officer, Wechselgott
@@ -37,17 +38,16 @@ Tokyo, Japan | Remote
 
 + Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
 + Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz) and NIST 800-53.  
-+ Provided leadership to internal teams and effectively managed a 150.000 EUR budget.  
++ Provided leadership to internal and external teams and effectively managed a 150.000 EUR budget.  
 + Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Remote  
 *June 2020 - September 2022*
 
-+ Led 5 people as part of the infrastructure and security team.
++ Led a team of 5 infrastructure & cybersecurity specialists, enhancing incident response time by 60% through the implementation of new security best practices
 + Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
-+ Introduction of security and privacy by design to all areas within the company.
-+ Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.
++ Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure, leading to over 99.95% availability and a total infrastructure recovery within 30 minutes.
 + Curated and enforced rigorous security policies and training programs, bolstering company-wide cybersecurity awareness and reducing phishing incident rates by 50%
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott

@@ -48,14 +48,17 @@ London, United Kingdom | Remote
 + Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
 + Introduction of security and privacy by design to all areas within the company.
 + Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure.
++ Curated and enforced rigorous security policies and training programs, bolstering company-wide cybersecurity awareness and reducing phishing incident rates by 50%
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
 London, United Kingdom | Remote  
 *May 2019 - June 2020*
 
-+ Deployed and managed advanced security tools, reducing vulnerabilities in software systems.  
-+ Conducted security audits and code review of infrastructure and software.
-  
++ Conducted comprehensive vulnerability assessments and security audits that led to a 20% enhancement in security protocols.
++ Spearheaded the integration of advanced security tools such as SIEM (Security Information and Event Management) tools, resulting in a 30% faster threat response time.
++ Collaborated with the development teams to integrate secure coding practices, mitigating the security risks by 45%.
+
+
 
 #### Doctoral Researcher, Royal Holloway University of London
 London, United Kingdom | Hybrid  
@@ -94,8 +97,9 @@ Ingelfingen, Germany | On-Site
 *August 2016 - September 2017*
 
 + Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.
-+ Management of 5 different applications and responsible for their continous improvement and error-free working.
-  
++ Management of 5 different applications and responsible for their continuous improvement and error-free working.
++ Collaborated with clients to understand their business processes and identifying areas for improvement.
++ Customizing software solutions to meet clients’ business requirements.
 
 #### Graduate Programme, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
@@ -103,7 +107,7 @@ Ingelfingen, Germany | On-Site
 
 + Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
 + Utilized various programming languages including ABAP, Java, C#, JavaScript as full-stack developer.
-
++ Led interdisciplinary projects involving different departments in the group.
 
 
 
@@ -127,12 +131,11 @@ Ingelfingen, Germany | On-Site
 
 
 
-
-
 ### Skills
 
-- Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud  
-- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints, Microsoft PAM, Microsoft Defender for Cloud  
+- Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
+- Security Knowledge: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty
+- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
 - Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
 - Programming Languages: Python, C#, JavaScript, Kotlin, PowerShell  
 - Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA (similar to FISC)

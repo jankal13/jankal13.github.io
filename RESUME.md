@@ -14,10 +14,10 @@ Stuttgart, Germany | Hybrid
 *June 2024 - Present*
 
 + Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
-+ Managed 7 external teammembers and a budget of 1.700.000 EUR.
-+ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 20% across international locations.
-+ Planned a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM.
-+ Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security including topics such as CASB, NGFW, DLP, system hardening, creation of new security policies, etc.
++ Led a team of 7 external teammembers, managing a budget of 1.700.000 EUR.
++ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations.
++ Spearheaded a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM, resulting in 99.99% availability within emergency situations.
++ Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security including topics such as CASB, NGFW, DLP, system hardening, creation of new security policies, improving overall efficiency by 20%.
 
 
 
@@ -74,10 +74,8 @@ London, United Kingdom | Hybrid
 *October 2019 - July 2020*
 
 + Lecturing and managing of students for 3 different classes including information security, network security and smart cards.
-+ Collecting, compiling, and analyzing data.
-+ Assisting with administrative tasks and supervision of students.
-
-
++ Implemented automated data processing pipeline, increasing data accuracy by 25% and reducing processing time by 50%.
++ Assisting with administrative tasks and supervision of 250+ students.
 
 
 

@@ -13,11 +13,9 @@ Information security manager with 10 years experience in cybersecurity and priva
 Stuttgart, Germany | Hybrid  
 *June 2024 - Present*
 
-+ Directed global cybersecurity operations, implementing application, endpoint and infrastructure security, achieving a 30% reduction in security incidents within 6 months.
-+ Led a team of 7 external teammembers, managing a budget of 1.700.000 EUR.
-+ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations.
-+ Spearheaded a proprietary disaster recovery and backup system within the SOC with perpetuated access to critical systems such as SIEM, SOAR and IAM, resulting in 99.99% availability within emergency situations.
-+ Directed interdisciplinary projects on cryptography, ICT & OT security, and cloud security including topics such as CASB, NGFW, DLP, system hardening, creation of new security policies, improving overall efficiency by 20%.
++ Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application, endpoint, and infrastructure security.
++ Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on cryptography, ICT & OT security, and cloud security. 
++ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations and ensuring 99.99% availability in emergency situations.
 
 
 
@@ -26,37 +24,33 @@ Tokyo, Japan | Hybrid
 *September 2023 - May 2024*
 
 + Boosted incident resolution efficiency by 20% through significant security initiatives such as security workflows.  
-+ Played a key role in SIEM, SOAR, SOC monitoring, and triage operations using Microsoft Sentinel, reducing response times by 50%.  
-+ Identified and resolved over 30 critical security vulnerabilities, improving compliance with ISO 27001:2022 by 25%.
-+ Enhanced incident response times by 60% by developing and conducting training sessions on incident response best practices.  
-+ Executed forensic analysis and advanced security operations for incident response.
++ Reduced response times by 50% by playing a key role in SIEM, SOAR, SOC monitoring, and triage operations using Microsoft Sentinel. 
++ Improved compliance with ISO 27001:2022 by 25% by identifying and resolving over 30 critical security vulnerabilities. 
 
 
 #### Chief Information Security Officer, Wechselgott
 Tokyo, Japan | Remote  
 *September 2022 - August 2023*
 
-+ Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.  
-+ Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz) and NIST 800-53.  
-+ Provided leadership to internal and external teams and effectively managed a 150.000 EUR budget.  
-+ Integrated new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%.  
++ Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.   
++ Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz), and NIST 800-53, ensuring robust security standards.   
++ Provided leadership to internal and external teams, effectively managing a 150,000 EUR budget and integrating new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%. 
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Remote  
 *June 2020 - September 2022*
 
-+ Led a team of 5 infrastructure & cybersecurity specialists, enhancing incident response time by 60% through the implementation of new security best practices
-+ Planned, managed and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products.
-+ Introduced Infrastructure-as-a-Code (IaaC) to the infrastructure, leading to over 99.95% availability and a total infrastructure recovery within 30 minutes.
-+ Curated and enforced rigorous security policies and training programs, bolstering company-wide cybersecurity awareness and reducing phishing incident rates by 50%
++ Led a team of 5 infrastructure & cybersecurity specialists, enhancing incident response time by 60% through the implementation of new security best practices   
++ Planned, managed, and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products, ensuring compliance and security   
++ Introduced Infrastructure-as-a-Code (IaaC), achieving over 99.95% availability and total infrastructure recovery within 30 minutes 
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
 London, United Kingdom | Remote  
 *May 2019 - June 2020*
 
-+ Conducted comprehensive vulnerability assessments and security audits that led to a 20% enhancement in security protocols.
-+ Spearheaded the integration of advanced security tools such as SIEM (Security Information and Event Management) tools, resulting in a 30% faster threat response time.
-+ Collaborated with the development teams to integrate secure coding practices, mitigating the security risks by 45%.
++ Conducted comprehensive vulnerability assessments and security audits, enhancing security protocols by 20%.   
++ Spearheaded the integration of advanced SIEM tools, achieving a 30% faster threat response time.   
++ Collaborated with development teams to integrate secure coding practices, mitigating security risks by 45%.  
 
 
 
@@ -64,29 +58,27 @@ London, United Kingdom | Remote
 London, United Kingdom | Hybrid  
 *October 2019 - May 2023*
 
-+ Academic research in security and privacy of P2P systems resulting in 8 peer-reviewed publications.
-+ Analyzing data, formulated theses and proofing them by conducting various experiments.
-+ Worked on self-managed projects for the doctoral thesis (PhD thesis).
++ Conducted academic research in security and privacy of P2P systems, resulting in 8 peer-reviewed publications, contributing to the advancement of cybersecurity knowledge.   
++ Analyzed data, formulated theses, and conducted various experiments, enhancing the understanding of security protocols and privacy measures.   
++ Managed self-directed projects for the doctoral thesis (PhD), demonstrating strong project management and independent research skills. 
 
 
 #### Research Assistant, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - July 2020*
 
-+ Lecturing and managing of students for 3 different classes including information security, network security and smart cards.
-+ Implemented automated data processing pipeline, increasing data accuracy by 25% and reducing processing time by 50%.
-+ Assisting with administrative tasks and supervision of 250+ students.
-
++ Lectured and managed students for 3 classes, including information security, network security, and smart cards, enhancing their understanding of cybersecurity principles.   
++ Implemented an automated data processing pipeline, increasing data accuracy by 25% and reducing processing time by 50%, showcasing technical proficiency.   
++ Supervised and assisted with administrative tasks for over 250 students, demonstrating strong organizational and leadership skills. 
 
 
 #### IT Consultant, K13 Solutions (Self-Employed)
 Heidelberg, Germany | Remote  
 *May 2015 - June 2020*
 
-+ Conducted over 50 security audits (penetration tests) to ensure 100% compliance with ISO 27001 and EBA standards.  
-+ Led 4 medium-scale development projects for secure web and mobile applications.  
-+ Utilized various programming languages including TypeScript, C#, Kotlin, and Swift.
-+ Management and improvement of the server infrastructure of differnt clients.
++ Conducted over 50 security audits (penetration tests), ensuring 100% compliance with ISO 27001 and EBA standards.   
++ Led 4 development projects for secure web and mobile applications, enhancing security measures and reducing vulnerabilities.   
++ Managed and improved server infrastructure for various clients, utilizing programming languages including TypeScript, C#, Kotlin, and Swift. 
 
 
 
@@ -94,18 +86,19 @@ Heidelberg, Germany | Remote
 Ingelfingen, Germany | On-Site  
 *August 2016 - September 2017*
 
-+ Directed software development projects, including full-stack application development using JavaScript, PHP, and Java.
-+ Management of 5 different applications and responsible for their continuous improvement and error-free working.
-+ Collaborated with clients to understand their business processes and identifying areas for improvement.
-+ Customizing software solutions to meet clients’ business requirements.
++ Directed software development projects, including full-stack application development using JavaScript, PHP, and Java, ensuring robust and secure applications. 
++ Managed 5 applications, achieving continuous improvement and error-free operations, enhancing system reliability by 25%. 
++ Collaborated with clients to understand their business processes, customizing software solutions to meet their requirements, improving client satisfaction rates by 30%.
+
+  
 
 #### Graduate Programme, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
 *June 2013 - August 2016*
 
-+ Designed and implemented various applications, effectively collaborating with teams and preparing detailed reports.  
-+ Utilized various programming languages including ABAP, Java, C#, JavaScript as full-stack developer.
-+ Led interdisciplinary projects involving different departments in the group.
++ Designed and implemented various applications, collaborating with teams and preparing detailed reports, enhancing project efficiency by 40%.   
++ Utilized programming languages including ABAP, Java, C#, and JavaScript as a full-stack developer, improving application performance by 20%.   
++ Led interdisciplinary projects involving different departments, fostering collaboration and achieving project goals within deadlines. 
 
 
 
@@ -133,9 +126,9 @@ Ingelfingen, Germany | On-Site
 
 - Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
 - Security Knowledge: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty
-- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
+- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints, Azure Synapse, Azure Data Lake, Cosmos
 - Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
-- Programming Languages: Python, C#, JavaScript, Kotlin, PowerShell  
+- Programming Languages: Python, C#, JavaScript, Kotlin, PowerShell, SQL, Kusto
 - Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA (similar to FISC)
 
 ### Certifications

@@ -165,13 +165,3 @@ Ingelfingen, Germany | On-Site
 
 
 
-### Interests
-
-- Human Rights
-- Research & Technology
-- Health & Longevity
-- Bouldering
-- Photography
-
-
-

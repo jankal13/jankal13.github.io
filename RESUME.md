@@ -138,13 +138,14 @@ Ingelfingen, Germany | On-Site
 
 ### Certifications
 
-- Offensive Security Certified Professional (OSCP) Training Course – 2024
+- Offensive Security Certified Professional (OSCP) Course – 2024
 - Rochester Institute of Technology, Computer Forensics - 2024
 - IBM Generative AI for Cybersecurity Professionals Specialization – 2024  
 - Microsoft Cybersecurity Analyst Certificate – 2023  
 - Google Cybersecurity Certificate – 2023
 - Google Project Management Certificate / Agile project management - 2021
 - DSGVO / GDPR Specialist Certification (TÜV SÜD) – 2021
+- Certified Information Systems Security Professional (CISSP) Course - 2020
 - More certificates can be found here: [https://www.credly.com/users/jan-kalbantner](https://www.credly.com/users/jan-kalbantner)  
 
 ### Publications

@@ -128,8 +128,13 @@ Ingelfingen, Germany | On-Site
 - Security Knowledge: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty
 - Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints, Azure Synapse, Azure Data Lake, Cosmos
 - Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
-- Programming Languages: Python, C#, JavaScript, Kotlin, PowerShell, SQL, Kusto
 - Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA (similar to FISC)
+
+### Programming Languages
+- Backend: C#, Python
+- Frontend: JavaScript, TypeScript
+- Mobile: Kotlin, Java, Swift
+- Scripting and Query Languages: PowerShell, SQL, KQL (Kusto)
 
 ### Certifications
 

@@ -1,5 +1,5 @@
 # Dr. Jan Kalbantner
-Cybersecurity Manager
+Senior Manager
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 

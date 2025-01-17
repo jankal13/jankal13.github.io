@@ -16,7 +16,7 @@ Stuttgart, Germany | Hybrid
 + Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application, endpoint, and infrastructure security.
 + Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on cryptography, ICT & OT security, and cloud security. 
 + Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations and ensuring 99.99% availability in emergency situations.
-
++ Implemented information security policies that adhere to standards such as ISO 27001, NIST 800-53, or NIS2, increasing compliance by 15%.
 
 
 #### Cyber Security Manager, KPMG Ignition Tokyo
@@ -125,10 +125,10 @@ Ingelfingen, Germany | On-Site
 ### Skills
 
 - Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
-- Security Knowledge: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty
-- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints, Azure Synapse, Azure Data Lake, Cosmos
+- Security Knowledge: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty, Zero Trust
+- Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
 - Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
-- Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA (similar to FISC)
+- Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA, DORA, NIS2
 
 ### Programming Languages
 - Backend: C#, Python

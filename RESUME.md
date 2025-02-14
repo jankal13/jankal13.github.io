@@ -1,10 +1,10 @@
 # Dr. Jan Kalbantner
-Senior Manager
+Senior Information Security Manager @ Porsche | Enable businesses to secure their data
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### About me
-Information security manager with 10 years experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting, and automobile.
+Senior information security manager with a decade of experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting, and automobile. Passionate about new technologies and enabling businesses globally.
 
 
 ### Work Experience
@@ -14,7 +14,7 @@ Stuttgart, Germany | Hybrid
 *June 2024 - Present*
 
 + Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application, endpoint, and infrastructure security.
-+ Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on cryptography, ICT & OT security, and cloud security. 
++ Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on AI/ML, cryptography, ICT & OT security, and cloud security. 
 + Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations and ensuring 99.99% availability in emergency situations.
 + Implemented information security policies that adhere to standards such as TISAX, ISO 27001, NIST 800-53, or NIS2, increasing compliance by 15%.
 
@@ -25,7 +25,8 @@ Tokyo, Japan | Hybrid
 
 + Boosted incident resolution efficiency by 20% through significant security initiatives such as security workflows.  
 + Reduced response times by 50% by playing a key role in SIEM, SOAR, SOC monitoring, and triage operations using Microsoft Sentinel. 
-+ Improved compliance with ISO 27001:2022 by 25% by identifying and resolving over 30 critical security vulnerabilities. 
++ Improved compliance with ISO 27001:2022 by 25% by identifying and resolving over 30 critical security vulnerabilities.
++ Helped with shaping and issuing the first AI and post-quantum cryptography policies.
 
 
 #### Chief Information Security Officer, Wechselgott
@@ -108,43 +109,56 @@ Ingelfingen, Germany | On-Site
 *Royal Holloway University of London, United Kingdom*  
 *2019 - 2024*
 
++ Focus: Applied Cybersecurity and Data Privacy, Critical Infrastructure
+
 #### Master of Science (MSc) in Information Security 
 *Royal Holloway University of London, United Kingdom*  
 *2018 - 2019*
+
++ Focus: Cybersecurity, Applied Information Security, Research
 
 #### Master of Science (MSc) in Applied Computer Science
 *University of Heidelberg, Germany*  
 *2017 - 2018*
 
++ Focus: AI/ML, Cybersecurity, Big Data
+
 #### Bachelor of Science in Applied Computer Science
 *DHBW Mosbach, Germany*  
 *2013 - 2016*
 
++ Dual study programme together with Bürkert Group as partner
++ Focus: Software engineering, Applied Technologies
 
 
 ### Skills
 
 - Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
-- Security Knowledge: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty, Zero Trust
+- Security Expertise: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty, Zero Trust
 - Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
 - Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
 - Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA, DORA, NIS2, TISAX
 
 ### Programming Languages
-- Backend: C#, Python
+- Backend: C#, Python, R
 - Frontend: JavaScript, TypeScript
-- Mobile: Kotlin, Java, Swift
-- Scripting and Query Languages: PowerShell, SQL, KQL (Kusto)
+- Mobile Development: Kotlin, Java, Swift
+- Scripting and Query Languages: PowerShell, SQL, KQL (Kusto Query Language)
+- Frameworks and Libraries: .NET, Tensorflow, PyTorch, Scikit-Learn, Keras, CNTK, Apache Spark, Pandas
 
 ### Certifications
 
 - Offensive Security Certified Professional (OSCP) Course – 2024
 - Rochester Institute of Technology, Computer Forensics - 2024
-- IBM Generative AI for Cybersecurity Professionals Specialization – 2024  
+- IBM Generative AI for Cybersecurity Certificate – 2024
+- IBM DevOps and Software Engineering Certificate - 2023
+- IBM Applied DevOps Engineering Certificate - 2023
 - Microsoft Cybersecurity Analyst Certificate – 2023  
 - Google Cybersecurity Certificate – 2023
-- Google Project Management Certificate / Agile project management - 2021
-- DSGVO / GDPR Specialist Certification (TÜV SÜD) – 2021
+- IBM Security Analyst Fundamentals Certificate - 2023
+- IBM Cybersecurity Analyst Certificate - 2023
+- Google Project Management Certificate - Scrum/agile project management - 2022
+- TÜV SÜD DSGVO / GDPR Specialist Certificate – 2021
 - Certified Information Systems Security Professional (CISSP) Course - 2020
 - More certificates can be found here: [https://www.credly.com/users/jan-kalbantner](https://www.credly.com/users/jan-kalbantner)  
 

@@ -1,5 +1,5 @@
 # Dr. Jan Kalbantner
-Senior Information Security Manager @ Porsche | Enable businesses to secure their data
+Senior Information Security Manager | Enable businesses to secure their data
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
@@ -13,7 +13,7 @@ Senior information security manager with a decade of experience in cybersecurity
 Stuttgart, Germany | Hybrid  
 *June 2024 - Present*
 
-+ Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application, endpoint, and infrastructure security.
++ Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application security (SSDLC), endpoint security and infrastructure security.
 + Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on AI/ML, cryptography, ICT & OT security, and cloud security. 
 + Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations and ensuring 99.99% availability in emergency situations.
 + Implemented information security policies that adhere to standards such as TISAX, ISO 27001, NIST 800-53, or NIS2, increasing compliance by 15%.

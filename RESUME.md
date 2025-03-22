@@ -105,6 +105,12 @@ Ingelfingen, Germany | On-Site
 
 ### Education
 
+### Executive MBA (EMBA) in Business and IT
+*Technical University Munich (TUM), Germany*
+*2025 - 2025*
+
++ Course: "Leadership & Cooperation"
+
 #### Doctor of Philosophy (PhD) in Information Security
 *Royal Holloway University of London, United Kingdom*  
 *2019 - 2024*
@@ -148,6 +154,7 @@ Ingelfingen, Germany | On-Site
 
 ### Certifications
 
+- TUM EMBA, Leadership and Cooperation - 2025 - On Request
 - Offensive Security Certified Professional (OSCP) Course – 2024 - On Request
 - Rochester Institute of Technology (RITx), Computer Forensics - 2024 - [Link](https://courses.edx.org/certificates/d7725b26f2b148cabf5bbf5e4df8ad72)
 - IBM Generative AI for Cybersecurity Certificate – 2024 - [Link](https://coursera.org/share/529cc9a4e73dfcd207080d3f67082f68)

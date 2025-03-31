@@ -1,10 +1,10 @@
 # Dr. Jan Kalbantner
-Senior Information Security Manager | Enable businesses to secure their data
+Senior Manager | Enable businesses to secure their data
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### About me
-Senior information security manager with a decade of experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting, and automobile. Passionate about new technologies and enabling businesses globally.
+Senior manager with a decade of experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting, and automobile. Passionate about new technologies and enabling businesses globally.
 
 
 ### Work Experience
@@ -105,7 +105,7 @@ Ingelfingen, Germany | On-Site
 
 ### Education
 
-### Executive MBA (EMBA) in Business and IT
+#### Executive MBA (EMBA) in Business and IT
 *Technical University Munich (TUM), Germany*
 *2025 - 2025*
 

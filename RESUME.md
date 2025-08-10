@@ -13,6 +13,8 @@ Senior manager with over a decade experience in cybersecurity and data privacy, 
 Germany | Remote  
 *September 2025 - Present*
 
++ Capability Unit: Enterprise Transformation
++ Focus: Cybersecurity & Data Privacy
 
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  

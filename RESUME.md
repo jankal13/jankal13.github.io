@@ -1,17 +1,22 @@
 # Dr. Jan Kalbantner
-Senior Manager | Enable businesses to secure their data
+Senior Manager @ Capgemini Invent | Enable businesses to secure their data and their customers' data
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### About me
-Senior manager with a decade of experience in cybersecurity and privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including academia, manufacturing, financial services, consulting, and automobile. Passionate about new technologies and enabling businesses globally.
+Senior manager with over a decade experience in cybersecurity and data privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including critical infrastructure research, manufacturing, financial services, professional services, and automotive. Passionate about new technologies and enabling businesses globally.
 
 
 ### Work Experience
 
+#### Senior Manager, Capgemini Invent
+Germany | Remote  
+*September 2025 - Present*
+
+
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  
-*June 2024 - Present*
+*June 2024 - August 2025*
 
 + Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application security (SSDLC), endpoint security and infrastructure security.
 + Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on AI/ML, cryptography, ICT & OT security, and cloud security. 
@@ -109,7 +114,7 @@ Ingelfingen, Germany | On-Site
 *Technical University Munich (TUM), Germany*
 *2025 - 2025*
 
-+ Course: "Leadership & Cooperation"
++ Focus: "Leadership & Cooperation"
 
 #### Doctor of Philosophy (PhD) in Information Security
 *Royal Holloway University of London, United Kingdom*  
@@ -142,8 +147,8 @@ Ingelfingen, Germany | On-Site
 - Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
 - Security Expertise: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty, Zero Trust
 - Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
-- Security Tools: SAST/DAST (Snyk, SonarQube), SIEM/SOAR (QRadar, Sentinel, Splunk), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
-- Standards: ISO 27001:2022, GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA, DORA, NIS2, TISAX
+- Security Tools: SAST/DAST (Snyk, SonarQube, SonarCloud), SIEM/SOAR (QRadar, Sentinel, Splunk, Chronicle), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
+- Standards: ISO 270XX, ISO 4200X GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA, DORA, NIS2, TISAX
 
 ### Programming Languages
 - Backend: C#, Python, R
@@ -185,4 +190,8 @@ Ingelfingen, Germany | On-Site
 - Also available on: [Google Scholar](https://scholar.google.com/citations?user=o78MpxYAAAAJ)  
 
 
-
+### Languages
+- German (Fluent)
+- English (Fluent)
+- French (Basic)
+- Japanese (Basic)

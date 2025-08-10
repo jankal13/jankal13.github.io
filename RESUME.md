@@ -14,7 +14,7 @@ Germany | Remote
 *September 2025 - Present*
 
 + Capability Unit: Enterprise Transformation
-+ Focus: Cybersecurity & Data Privacy
++ Focus: Information Security & Cybersecurity Strategy
 
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  
@@ -42,7 +42,7 @@ Tokyo, Japan | Remote
 
 + Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.   
 + Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz), and NIST 800-53, ensuring robust security standards.   
-+ Provided leadership to internal and external teams, effectively managing a 150,000 EUR budget and integrating new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%. 
++ Provided leadership to internal and external teams, effectively managing a 500,000 EUR budget and integrating new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%. 
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Remote  

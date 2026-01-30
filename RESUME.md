@@ -1,74 +1,77 @@
 # Dr. Jan Kalbantner
-Senior Manager @ Capgemini Invent | Enable businesses to secure their data and their customers' data
+Enable businesses to secure their data and their customers' data
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### About me
-Senior manager with over a decade experience in cybersecurity and data privacy, specializing in securing infrastructures, developing resilient security strategies, and leading global interdisciplinary teams. Proven track record in compliance with international standards and implementing advanced tools for infrastructure and application security. Experienced in different roles with a history of success in research, project management, and technological innovation across various industries including critical infrastructure research, manufacturing, financial services, professional services, and automotive. Passionate about new technologies and enabling businesses globally.
+Visionary leader with over 13 years of experience building resilient, business-aligned security programs across global enterprise environments. Expert at translating complex technical risks into actionable business strategies that protect organizational assets while fostering innovation. Proven track record in orchestrating large-scale security transformations and navigating high-stakes regulatory landscapes in finance, automotive and critical infrastructure. Dedicated to maturing security posture as a competitive advantage and a pillar of operational excellence.
 
 
 ### Work Experience
 
 #### Senior Manager, Capgemini Invent
-Germany | Remote  
+Stuttgart, Germany | Hybrid  
 *September 2025 - Present*
 
-+ Capability Unit: Enterprise Transformation
-+ Focus: Information Security & Cybersecurity Strategy
++ Serves as a high-level strategic advisor to C-suite executives, architecting comprehensive cybersecurity transformations and resilient global strategies for DAX and MDAX organizations across diverse industries.
++ Orchestrates the delivery of complex, multi-million-euro project portfolios while leading high-performing, multidisciplinary teams to ensure operational excellence and strategic alignment.
++ Drives significant business development and commercial growth, securing multiple cybersecurity consulting contracts through expert stakeholder management and value-driven solutioning.
++ Spearheads the strategic development of the cybersecurity service portfolio, defining market-leading offerings that address emerging threats and regulatory shifts.
+
+
 
 #### Senior Information Security Manager, Porsche
 Stuttgart, Germany | Hybrid  
 *June 2024 - August 2025*
 
-+ Directed global cybersecurity operations, achieving a 30% reduction in security incidents within 6 months by implementing application security (i.e. SSDLC, DevSecOps, etc.), endpoint security (i.e. DLP, Zero Trust, PAM, etc.) and infrastructure security (i.e. NGFW, IPS, CASB, etc.).
-+ Led a team of 7 external team members, managing a budget of 1.7 million EUR, and enhancing overall efficiency by 20% through interdisciplinary projects on AI/ML, cryptography, ICT & OT security, and cloud security. 
-+ Designed and implemented a global Information Security Service Desk, streamlining issue resolution times by 50% across international locations and ensuring 99.99% availability in emergency situations.
-+ Implemented information security policies that adhere to standards such as TISAX, ISO 27001, NIST 800-53, or NIS2, increasing compliance by 15%.
++ Orchestrated a comprehensive global security transformation that reduced enterprise-wide incidents by 30% through the strategic deployment of Zero Trust, DevSecOps, and cloud-native defense architectures.
++ Steered a €1.7M strategic budget and cross-functional team to drive a 20% gain in operational efficiency by pioneering AI/ML, advanced cryptography, and OT security initiatives.
++ Architected a global Information Security Service Delivery model that optimized incident response times by 50% while maintaining 99.99% availability for mission-critical international operations.
++ Advanced corporate governance by aligning global security policies with TISAX, ISO 27001, and NIS2 standards, resulting in a 15% increase in measurable compliance maturity.
 
 
 #### Cyber Security Manager, KPMG Ignition Tokyo
 Tokyo, Japan | Hybrid  
 *September 2023 - May 2024*
 
-+ Boosted incident resolution efficiency by 20% through significant security initiatives such as security workflows.  
-+ Reduced response times by 50% by playing a key role in SIEM, SOAR, SOC monitoring, and triage operations using Microsoft Sentinel. 
-+ Improved compliance with ISO 27001:2022 by 25% by identifying and resolving over 30 critical security vulnerabilities.
-+ Helped with shaping and issuing the first AI and post-quantum cryptography policies.
++ Enhanced operational resilience and incident resolution efficiency by 20% through the strategic design and implementation of automated security orchestration workflows.
++ Modernized global security operations by engineering a high-performance SOC framework utilizing Microsoft Sentinel (SIEM/SOAR), resulting in a 50% reduction in Mean Time to Respond (MTTR).
++ Elevated organizational risk posture and ISO 27001:2022 compliance maturity by 25% through the systemic identification and remediation of critical enterprise vulnerabilities.
++ Future-proofed the enterprise by spearheading the development and governance of inaugural corporate policies for Artificial Intelligence (AI) and Post-Quantum Cryptography.
 
 
 #### Chief Information Security Officer, Wechselgott
-Tokyo, Japan | Remote  
+Tokyo, Japan | Hybrid  
 *September 2022 - August 2023*
 
-+ Managed and refined AWS, Azure, and Kubernetes infrastructure, supporting a 300% annual customer growth rate.   
-+ Achieved full compliance with ISO 27001:2022, OWASP Top 10, EBA Guidelines (IT Grundschutz), and NIST 800-53, ensuring robust security standards.   
-+ Provided leadership to internal and external teams, effectively managing a 500,000 EUR budget and integrating new security tools (DAST, SAST, IAST, SCA) into code pipelines, enhancing code quality by 25% and reducing vulnerabilities by 40%. 
++ Engineered and scaled resilient multi-cloud infrastructures across AWS, Azure, and Kubernetes to support organizational hyper-growth, facilitating a 300% annual increase in customer acquisition.
++ Architected and institutionalized a comprehensive GRC framework that achieved full compliance with ISO 27001:2022, EBA Guidelines, and NIST 800-53, securing the firm's regulatory "license to operate."
++ Directed a €500k strategic security investment to integrate a sophisticated DevSecOps pipeline (SAST/DAST/IAST), resulting in a 40% reduction in production vulnerabilities and a 25% improvement in code quality.
 
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
-London, United Kingdom | Remote  
+London, United Kingdom | Hybrid  
 *June 2020 - September 2022*
 
-+ Led a team of 5 infrastructure & cybersecurity specialists, enhancing incident response time by 60% through the implementation of new security best practices   
-+ Planned, managed, and implemented ISO 27001 and BSI 200 standards to the infrastructure and all products, ensuring compliance and security   
-+ Introduced Infrastructure-as-a-Code (IaaC), achieving over 99.95% availability and total infrastructure recovery within 30 minutes 
++ Optimized organizational resilience by leading a high-performing team of specialists to achieve a 60% acceleration in incident response capabilities through the adoption of modernized security protocols.
++ Spearheaded the end-to-end certification and implementation of ISO 27001 and BSI 200 standards across all products and infrastructure, establishing a foundational culture of security and compliance.
++ Drove a transformative shift to Infrastructure-as-Code (IaaC), drastically enhancing business continuity by guaranteeing 99.95% system availability and a 30-minute full-disaster recovery objective.
 
 #### IT Infrastructure & Cybersecurity Specialist, Wechselgott
 London, United Kingdom | Remote  
 *May 2019 - June 2020*
 
-+ Conducted comprehensive vulnerability assessments and security audits, enhancing security protocols by 20%.   
-+ Spearheaded the integration of advanced SIEM tools, achieving a 30% faster threat response time.   
-+ Collaborated with development teams to integrate secure coding practices, mitigating security risks by 45%.  
-
++ Strengthened the enterprise security posture by 20% through the execution of comprehensive vulnerability assessments and the strategic redesign of organizational security protocols.
++ Advanced the organization's proactive defense capability by architecting a sophisticated SIEM environment, resulting in a 30% acceleration in threat detection and response.
++ Institutionalized "secure-by-design" principles across the development lifecycle, mitigating systemic security risks by 45% through high-impact cross-functional collaboration.
 
 
 #### Doctoral Researcher, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - May 2023*
 
-+ Conducted academic research in security and privacy of P2P systems, resulting in 8 peer-reviewed publications, contributing to the advancement of cybersecurity knowledge.   
-+ Analyzed data, formulated theses, and conducted various experiments, enhancing the understanding of security protocols and privacy measures.   
-+ Managed self-directed projects for the doctoral thesis (PhD), demonstrating strong project management and independent research skills. 
++ Advanced global cybersecurity discourse and intellectual capital through the publication of eight peer-reviewed studies focused on the security and privacy of peer-to-peer (P2P) systems.
++ Engineered rigorous experimental methodologies to analyze and validate security protocols, providing data-driven solutions for emerging privacy challenges in complex, distributed architectures.
++ Demonstrated high-level project management and strategic analytical leadership while delivering a multi-year doctoral thesis at one of the world's premier Information Security research institutions.
 
 
 #### Research Assistant, Royal Holloway University of London

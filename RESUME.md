@@ -160,37 +160,36 @@ Ingelfingen, Germany | On-Site
 
 #### Doctor of Philosophy (PhD) in Information Security
 *Royal Holloway University of London, United Kingdom*  
-*2019 - 2024*
 
 + Focus: Applied Cybersecurity and Data Privacy, Critical Infrastructure
 
 #### Master of Science (MSc) in Information Security 
 *Royal Holloway University of London, United Kingdom*  
-*2018 - 2019*
 
 + Focus: Cybersecurity, Applied Information Security, Research
 
 #### Master of Science (MSc) in Applied Computer Science
 *University of Heidelberg, Germany*  
-*2017 - 2018*
 
 + Focus: AI/ML, Cybersecurity, Big Data
 
 #### Bachelor of Science in Applied Computer Science
 *DHBW Mosbach, Germany*  
-*2013 - 2016*
 
 + Focus: Software engineering, Applied Technologies
 
 
 
-### Skills
+### Technical Skills
 
+- Applied AI & LLM Expertise: Prompt Engineering, LLM Evaluation, Enterprise AI Deployments, API Integrations, Production LLM Use Cases, AI System Architecture, Natural Language Processing (NLP), Deep Learning, Model Benchmarking, Conversational Applications.
+- AI Safety & Governance: AI Security, Steerable & Interpretable AI, AI Corporate Policies, Trustworthy AI Systems, AI Risk Management.
+- AI Ecosystems & Models: Claude (Enterprise, Code, API), Google Vertex AI / Gemini, OpenAI, Kimi, Mistral.
 - Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
 - Security Expertise: Identity Access Management (IAM), Privileged Access Management (PAM), Microsoft Defender for Cloud, AWS GuardDuty, Zero Trust
 - Tools: Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
 - Security Tools: SAST/DAST (Snyk, SonarQube, SonarCloud), SIEM/SOAR (QRadar, Sentinel, Splunk, Chronicle), Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security
-- Standards: ISO 270XX, ISO 4200X GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA, DORA, NIS2, TISAX
+- Standards & Regulations: ISO 270XX, ISO 4200X GDPR, OWASP Top 10, BSI 200-1/2/3/4, NIST 800-53 Rev. 5, EBA, DORA, NIS2, TISAX, CRA
 
 ### Programming Languages
 - Backend: C#, Python, R

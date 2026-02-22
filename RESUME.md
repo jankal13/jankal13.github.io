@@ -1,10 +1,21 @@
 # Dr. Jan Kalbantner
-Enable businesses to secure their data and their customers' data
+Bridging Technical Risk & Business Strategy
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
-### About me
-Visionary leader with over 13 years of experience building resilient, business-aligned security programs across global enterprise environments. Expert at translating complex technical risks into actionable business strategies that protect organizational assets while fostering innovation. Proven track record in orchestrating large-scale security transformations and navigating high-stakes regulatory landscapes in finance, automotive and critical infrastructure. Dedicated to maturing security posture as a competitive advantage and a pillar of operational excellence.
+### Executive Summary
+Strategic Technology & Risk Leader with 13+ years of experience architecting resilient operating models and enterprise risk frameworks across highly regulated industries (Financial Services, Critical Infrastructure, Automotive). 
+I specialise in bridging the gap between complex regulatory landscapes and executive strategy, translating high-stakes imperatives into scalable, reliable architectures. 
+My focus is on driving measurable improvements in organisational resilience, technological trust and responsible innovation at an enterprise scale.
+
+
+### Executive & Technical Competencies
++ Strategic Stakeholder Management: Translating complex technical situations into high-level business intelligence to drive informed Board-level decision-making.
++ Pre-Sales Leadership & GTM Strategy: Co-building GTM strategies, managing technical pre-sales teams, and owning the technical execution of enterprise deals (including use case scoping, technical adoption workshops, and POC execution).
++ Secure AI & Cloud Architecture: Deep technical proficiency in AI security, cloud security, application security and bridging modern API integrations with stringent enterprise compliance standards.
++ Regulated Industry Expertise: Navigating complex technical and regulatory requirements (GDPR, ISO 27001, NIS2, TISAX, EBA) to build trust and drive AI transformation within large enterprises.
++ Commercial & Financial Stewardship: Directing multi-million-euro budgets and securing over EUR 5 M in strategic contracts through expert business development and value-based solutioning.
+
 
 
 ### Work Experience
@@ -13,41 +24,66 @@ Visionary leader with over 13 years of experience building resilient, business-a
 Stuttgart, Germany | Hybrid  
 *September 2025 - Present*
 
++ Partner closely with leadership to co-build Go-To-Market strategies and drive technology adoption for DAX organizations, translating complex business requirements into scalable architectures.
++ Own the technical portions of pre-sales engagements, executing Proof of Concepts, validating customer ROI and leading technical adoption workshops to secure multi-million-euro contracts.
++ Lead high-performing, multidisciplinary technical advisory teams with a specialized focus on AI Security, Cloud Security and Application Security, bridging digital-native technical requirements with traditional enterprise needs.
++ Develop scalable technical engagement frameworks and market-leading offerings that allow highly regulated industries to securely adopt emerging technologies.
++ Spearheads the strategic development of the solution portfolio, defining market-leading offerings that address emerging threats and regulatory shifts.
+
+<!--
 + Serves as a high-level strategic advisor to C-suite executives, architecting comprehensive cybersecurity transformations and resilient global strategies for DAX and MDAX organizations across diverse industries.
 + Orchestrates the delivery of complex, multi-million-euro project portfolios while leading high-performing, multidisciplinary teams to ensure operational excellence and strategic alignment.
 + Drives significant business development and commercial growth, securing multiple cybersecurity consulting contracts through expert stakeholder management and value-driven solutioning.
 + Spearheads the strategic development of the cybersecurity service portfolio, defining market-leading offerings that address emerging threats and regulatory shifts.
+-->
 
 
-
-#### Senior Information Security Manager, Porsche
+#### Senior Manager Information Security, Porsche
 Stuttgart, Germany | Hybrid  
 *June 2024 - August 2025*
 
++ Orchestrated a global security transformation and architectural shift that reduced enterprise-wide incidents by 30% via Zero Trust, DevSecOps, and cloud-native defense architectures.
++ Steered a EUR 1.7M strategic budget to drive a 20% gain in operational efficiency by pioneering and architecting advanced AI/ML initiatives, ensuring these frontier technologies met the strict compliance requirements of the automotive sector.
++ Advanced corporate governance by aligning global technology policies with TISAX, ISO 27001 and NIS2 standards, critical for deploying AI safely in enterprise environments.
+
+
+<!--
 + Orchestrated a comprehensive global security transformation that reduced enterprise-wide incidents by 30% through the strategic deployment of Zero Trust, DevSecOps, and cloud-native defense architectures.
 + Steered a €1.7M strategic budget and cross-functional team to drive a 20% gain in operational efficiency by pioneering AI/ML, advanced cryptography, and OT security initiatives.
 + Architected a global Information Security Service Delivery model that optimized incident response times by 50% while maintaining 99.99% availability for mission-critical international operations.
 + Advanced corporate governance by aligning global security policies with TISAX, ISO 27001, and NIS2 standards, resulting in a 15% increase in measurable compliance maturity.
+-->
 
-
-#### Cyber Security Manager, KPMG Ignition Tokyo
+#### Domain Leader & Cyber Security Manager, KPMG Ignition Tokyo
 Tokyo, Japan | Hybrid  
 *September 2023 - May 2024*
 
++ Spearheaded the development and governance of inaugural corporate policies for Artificial Intelligence (AI), establishing foundational frameworks for safe and compliant enterprise AI use cases.
++ Engineered and integrated automated security orchestration workflows (SIEM/SOAR via Microsoft Sentinel), demonstrating deep technical proficiency with complex enterprise API integrations.
++ Acted as a technical leader to elevate the organizational risk posture and ISO 27001:2022 compliance maturity by 25% across global operations.
+
+<!--
 + Enhanced operational resilience and incident resolution efficiency by 20% through the strategic design and implementation of automated security orchestration workflows.
 + Modernized global security operations by engineering a high-performance SOC framework utilizing Microsoft Sentinel (SIEM/SOAR), resulting in a 50% reduction in Mean Time to Respond (MTTR).
 + Elevated organizational risk posture and ISO 27001:2022 compliance maturity by 25% through the systemic identification and remediation of critical enterprise vulnerabilities.
 + Future-proofed the enterprise by spearheading the development and governance of inaugural corporate policies for Artificial Intelligence (AI) and Post-Quantum Cryptography.
+-->
 
-
-#### Chief Information Security Officer, Wechselgott
+#### Solutions Architect & Cyber Security Lead, Wechselgott
 Tokyo, Japan | Hybrid  
-*September 2022 - August 2023*
+*October 2019 - August 2023*
 
++ Built and led the Cloud and Cybersecurity team in a fast-paced B2B startup environment, architecting and securing the foundational multi-cloud infrastructure (AWS, Azure, Kubernetes) from the ground up to ensure 99.9% reliability.
++ Spearheaded B2B pre-sales initiatives, developing technical concepts and architectural solutions that translated complex product capabilities into compelling enterprise value propositions, directly contributing to a 50% year-over-year expansion of the global customer base.
++ Bridged digital-native agility with enterprise compliance, directing a risk strategy that achieved 100% regulatory alignment (ISO 27001, NIST) to build technical trust and overcome procurement hurdles with highly regulated enterprise prospects.
++ Institutionalized a "Secure-by-Design" engineering culture, acting as the technical champion to integrate DevSecOps orchestrations that reduced production vulnerabilities by 40%.
+
+<!--
 + Engineered and scaled resilient multi-cloud infrastructures across AWS, Azure, and Kubernetes to support organizational hyper-growth, facilitating a 300% annual increase in customer acquisition.
 + Architected and institutionalized a comprehensive GRC framework that achieved full compliance with ISO 27001:2022, EBA Guidelines, and NIST 800-53, securing the firm's regulatory "license to operate."
 + Directed a €500k strategic security investment to integrate a sophisticated DevSecOps pipeline (SAST/DAST/IAST), resulting in a 40% reduction in production vulnerabilities and a 25% improvement in code quality.
-
+-->
+<!--
 #### IT Infrastructure & Cybersecurity Manager, Wechselgott
 London, United Kingdom | Hybrid  
 *June 2020 - September 2022*
@@ -73,7 +109,6 @@ London, United Kingdom | Hybrid
 + Engineered rigorous experimental methodologies to analyze and validate security protocols, providing data-driven solutions for emerging privacy challenges in complex, distributed architectures.
 + Demonstrated high-level project management and strategic analytical leadership while delivering a multi-year doctoral thesis at one of the world's premier Information Security research institutions.
 
-
 #### Research Assistant, Royal Holloway University of London
 London, United Kingdom | Hybrid  
 *October 2019 - July 2020*
@@ -81,28 +116,31 @@ London, United Kingdom | Hybrid
 + Lectured and managed students for 3 classes, including information security, network security, and smart cards, enhancing their understanding of cybersecurity principles.   
 + Implemented an automated data processing pipeline, increasing data accuracy by 25% and reducing processing time by 50%, showcasing technical proficiency.   
 + Supervised and assisted with administrative tasks for over 250 students, demonstrating strong organizational and leadership skills. 
+-->
 
 
 #### IT Consultant, K13 Solutions (Self-Employed)
 Heidelberg, Germany | Remote  
 *May 2015 - June 2020*
 
-+ Conducted over 50 security audits (penetration tests), ensuring 100% compliance with ISO 27001 and EBA standards.   
-+ Led 4 development projects for secure web and mobile applications, enhancing security measures and reducing vulnerabilities.   
-+ Managed and improved server infrastructure for various clients, utilizing programming languages including TypeScript, C#, Kotlin, and Swift. 
++ Owned the end-to-end technical sales cycle as an independent consultant, successfully driving engagements from initial outbound prospecting and pre-sales scoping through to the final technical execution and delivery of the project.
++ Acted as the lead Solutions Architect and Account Manager to pitch, design and supervise 5 major enterprise software development projects (web and mobile applications using TypeScript, C#, .NET), ensuring tight alignment with customer business needs.
++ Served as a trusted pre-sales technical advisor in the highly regulated financial sector, conducting over 50 security audits to ensure 100% compliance with stringent EBA guidelines, BSI 200 and ISO 27001 standards.
+
 
 
 
 #### IT Application Consultant, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
-*August 2016 - September 2017*
+*June 2013 - September 2017*
 
-+ Directed software development projects, including full-stack application development using JavaScript, PHP, and Java, ensuring robust and secure applications. 
-+ Managed 5 applications, achieving continuous improvement and error-free operations, enhancing system reliability by 25%. 
-+ Collaborated with clients to understand their business processes, customizing software solutions to meet their requirements, improving client satisfaction rates by 30%.
++ Led internal stakeholder management and enterprise change management initiatives, bridging the gap between technical development teams and non-technical business units to drive successful digital transformation within a traditional manufacturing environment.
++ Designed and implemented Target Operating Models (TOM) to optimize internal software development lifecycles, establishing scalable frameworks and repeatable processes that fostered cross-functional collaboration.
++ Directed internal full-stack software development projects (JavaScript, Java, PHP), ensuring that technical architectures and applications were tightly aligned with evolving business needs, operational workflows, and overarching organizational goals.
+
 
   
-
+<!--
 #### Graduate Programme, Bürkert Fluid Control Systems
 Ingelfingen, Germany | On-Site  
 *June 2013 - August 2016*
@@ -110,14 +148,13 @@ Ingelfingen, Germany | On-Site
 + Designed and implemented various applications, collaborating with teams and preparing detailed reports, enhancing project efficiency by 40%.   
 + Utilized programming languages including ABAP, Java, C#, and JavaScript as a full-stack developer, improving application performance by 20%.   
 + Led interdisciplinary projects involving different departments, fostering collaboration and achieving project goals within deadlines. 
-
+-->
 
 
 ### Education
 
 #### Executive MBA (EMBA) in Business and IT
 *Technical University Munich (TUM), Germany*
-*2025 - 2025*
 
 + Focus: "Leadership & Cooperation"
 
@@ -164,6 +201,7 @@ Ingelfingen, Germany | On-Site
 
 ### Certifications
 
+- Google AI Professional Certificate - 2026 - On Request
 - TUM EMBA, Leadership and Cooperation - 2025 - On Request
 - Offensive Security Certified Professional (OSCP) Course – 2024 - On Request
 - Rochester Institute of Technology (RITx), Computer Forensics - 2024 - [Link](https://courses.edx.org/certificates/d7725b26f2b148cabf5bbf5e4df8ad72)

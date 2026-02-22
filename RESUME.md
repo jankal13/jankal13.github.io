@@ -153,7 +153,7 @@ Ingelfingen, Germany | On-Site
 
 ### Education
 
-#### Executive MBA (EMBA) in Business and IT
+#### Executive MBA (EMBA) in Business and IT (Ongoing)
 *Technical University Munich (TUM), Germany*
 
 + Focus: "Leadership & Cooperation"
@@ -168,10 +168,10 @@ Ingelfingen, Germany | On-Site
 
 + Focus: Cybersecurity, Applied Information Security, Research
 
-#### Master of Science (MSc) in Applied Computer Science
+#### Advanced Postgraduate Coursework: AI & Big Data
 *University of Heidelberg, Germany*  
 
-+ Focus: AI/ML, Cybersecurity, Big Data
++ Completed specialized Master's level modules in Artificial Intelligence and Big Data as part of the Applied Computer Science MSc program to deepen technical expertise in frontier technologies.
 
 #### Bachelor of Science in Applied Computer Science
 *DHBW Mosbach, Germany*  

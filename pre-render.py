@@ -1,4 +1,5 @@
 import json
+import html
 import yaml
 from urllib.parse import urlparse
 
@@ -14,6 +15,27 @@ def clean_domain(url):
         domain = domain[4:]
     return domain
 
+def extract_name(title):
+    """Extract the person's name from the title string (before the first '|')."""
+    if title and '|' in title:
+        return title.split("|")[0].strip()
+    return title.strip() if title else "Resume"
+
+def build_jsonld(title, description, custom_domain):
+    """Build JSON-LD structured data for ATS and search engine crawlers."""
+    jsonld = {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "mainEntity": {
+            "@type": "Person",
+            "name": extract_name(title),
+            "description": description,
+        }
+    }
+    if custom_domain:
+        jsonld["mainEntity"]["url"] = f"https://{custom_domain}"
+    return json.dumps(jsonld)
+
 def pre_render():
     # Convert RESUME.json to _variables.yml
     with open('RESUME.json', 'r', encoding='utf-8') as json_file:
@@ -26,6 +48,18 @@ def pre_render():
         secondary_email = meta_data.get('secondary-email', None)
         description = meta_data.get('description', DEFAULT_TEXT_VAR)
         keywords = ', '.join([secondary_email, custom_domain, DEFAULT_TEXT_VAR])
+        author = extract_name(title)
+        escaped_keywords = html.escape(keywords, quote=True)
+        escaped_author = html.escape(author, quote=True)
+        escaped_description = html.escape(description, quote=True)
+        jsonld_script = f'<script type="application/ld+json">{build_jsonld(title, description, custom_domain)}</script>'
+        header_meta = '\n'.join([
+            f'<meta name="keywords" content="{escaped_keywords}">',
+            f'<meta name="author" content="{escaped_author}">',
+            '<meta name="robots" content="index, follow">',
+            f'<meta name="description" content="{escaped_description}">',
+            jsonld_script,
+        ])
         development_profile = {
             "website": {
                 "site-url": custom_domain,
@@ -44,13 +78,9 @@ def pre_render():
             },
             "format": {
                 "html": {
-                    "description": description
-                }
-            },
-            "format": {
-                "html": {
+                    "description": description,
                     "output-file": "index.html",
-                    "header-includes": '\n'.join([f'<meta name="keywords" content="{keywords}">']),
+                    "header-includes": header_meta,
                     "pagetitle": title,
                 },
                 "pdf": {

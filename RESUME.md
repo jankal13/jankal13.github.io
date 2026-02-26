@@ -3,13 +3,13 @@ Bridging Technical Risk & Business Strategy
 
 [cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
-### Executive Summary
+### Professional Summary
 Strategic Technology & Risk Leader with 13+ years of experience architecting resilient operating models and enterprise risk frameworks across highly regulated industries (Financial Services, Critical Infrastructure, Automotive). 
 I specialise in bridging the gap between complex regulatory landscapes and executive strategy, translating high-stakes imperatives into scalable, reliable architectures. 
 My focus is on driving measurable improvements in organisational resilience, technological trust and responsible innovation at an enterprise scale.
 
 
-### Executive & Technical Competencies
+### Core Competencies
 + Strategic Stakeholder Management: Translating complex technical situations into high-level business intelligence to drive informed Board-level decision-making.
 + Pre-Sales Leadership & GTM Strategy: Co-building GTM strategies, managing technical pre-sales teams, and owning the technical execution of enterprise deals (including use case scoping, technical adoption workshops, and POC execution).
 + Secure AI & Cloud Architecture: Deep technical proficiency in AI security, cloud security, application security and bridging modern API integrations with stringent enterprise compliance standards.
@@ -18,7 +18,7 @@ My focus is on driving measurable improvements in organisational resilience, tec
 
 
 
-### Work Experience
+### Professional Experience
 
 #### Senior Manager, Capgemini Invent
 Stuttgart, Germany | Hybrid  

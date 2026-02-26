@@ -11,9 +11,34 @@ main {
     display: none;
 }
 
+/* ATS-friendly: ensure content is readable and accessible */
+h1, h2, h3, h4 {
+    page-break-after: avoid;
+}
+
+ul {
+    page-break-inside: avoid;
+}
+
 @media print { 
     .no-print, .no-print *, footer, footer *, header, header * {
         display: none !important;
+    }
+
+    body {
+        font-size: 11pt;
+        line-height: 1.4;
+        color: #000 !important;
+        background: #fff !important;
+    }
+
+    a {
+        color: #000 !important;
+        text-decoration: none !important;
+    }
+
+    h1, h2, h3, h4 {
+        color: #000 !important;
     }
 }
 

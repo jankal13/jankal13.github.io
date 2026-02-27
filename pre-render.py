@@ -66,7 +66,7 @@ def pre_render():
                 "page-footer": {
                     "center": [
                         {
-                            "text": secondary_email,
+                            "text": "Email me",
                             "href": f"mailto:{secondary_email}"
                         },
                         {

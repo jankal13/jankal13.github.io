@@ -200,6 +200,9 @@ Ingelfingen, Germany | On-Site
 
 ### Certifications
 
+- Anthropic Claude 101 - [Link](https://verify.skilljar.com/c/9onqcjfi9y3m)
+- Anthropic AI Fluency: Framework and Foundations - 2026 - [Link](https://verify.skilljar.com/c/bwygvcm8i7hu)
+- Anthropic Introduction to Model Context Protocol - 2026 - [Link](https://verify.skilljar.com/c/2at8x6rszr8i)
 - Google AI Professional Certificate - 2026 - On Request
 - TUM EMBA, Leadership and Cooperation - 2025 - On Request
 - Offensive Security Certified Professional (OSCP) Course – 2024 - On Request

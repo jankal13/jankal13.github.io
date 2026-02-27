@@ -204,6 +204,14 @@ Ingelfingen, Germany | On-Site
 - Anthropic AI Fluency: Framework and Foundations - 2026 - [Link](https://verify.skilljar.com/c/bwygvcm8i7hu)
 - Anthropic Introduction to Model Context Protocol - 2026 - [Link](https://verify.skilljar.com/c/2at8x6rszr8i)
 - Google AI Professional Certificate - 2026 - On Request
+- Google AI for App Building - 2026 - Link](https://www.coursera.org/account/accomplishments/verify/6ASKWCH2RX1X)
+- Google AI for Data Analysis - 2026 - [Link](https://www.coursera.org/account/accomplishments/verify/T922KS3Z1PEH)
+- Google AI for Content Creation - 2026 - [Link](https://www.coursera.org/account/accomplishments/verify/YQUHEGRV0NVD)
+- Google AI for Writing and Communication - 2026 - [Link](https://www.coursera.org/account/accomplishments/verify/M0SNVJNC78UP)
+- Google AI for Research and Insight - 2026 - [Link](https://www.coursera.org/account/accomplishments/verify/QDA1FGFFA78B)
+- Google AI for Brainstorming and Planning - 2026 - [Link](https://www.coursera.org/account/accomplishments/verify/RTNXII1ET68Z)
+- Google AI Foundamentals - 2026 - [Link](https://www.coursera.org/account/accomplishments/verify/L00GZG5YEDXZ)
+- IBM ETL and Data Pipelines with Shell, Airflow and Kafka - 2025 - [Link](https://www.coursera.org/account/accomplishments/verify/WBFYD7GI20XT)
 - TUM EMBA, Leadership and Cooperation - 2025 - On Request
 - Offensive Security Certified Professional (OSCP) Course – 2024 - On Request
 - Rochester Institute of Technology (RITx), Computer Forensics - 2024 - [Link](https://courses.edx.org/certificates/d7725b26f2b148cabf5bbf5e4df8ad72)

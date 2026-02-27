@@ -1,7 +1,7 @@
 # Dr. Jan Kalbantner
 Bridging Technical Risk & Business Strategy
 
-[cv@kalbantner.de](mailto:cv@kalbantner.de) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
+[Email me](mailto:acetate_segue3d@icloud.com) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### Professional Summary
 Strategic Technology & Risk Leader with 13+ years of experience architecting resilient operating models and enterprise risk frameworks across highly regulated industries (Financial Services, Critical Infrastructure, Automotive). 

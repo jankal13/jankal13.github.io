@@ -132,25 +132,27 @@ Ingelfingen, Germany | On-Site
 
 ### Certifications
 
-- Anthropic Claude 101 - [Link](https://verify.skilljar.com/c/9onqcjfi9y3m)
-- Anthropic AI Fluency: Framework and Foundations - 2026 - [Link](https://verify.skilljar.com/c/bwygvcm8i7hu)
-- Anthropic Introduction to Model Context Protocol - 2026 - [Link](https://verify.skilljar.com/c/2at8x6rszr8i)
-- Google AI Professional Certificate - 2026 - [Link](https://coursera.org/share/df7ab5d369916c850740311ff4cb646c)
-- IBM ETL and Data Pipelines with Shell, Airflow and Kafka - 2025 - [Link](https://www.coursera.org/account/accomplishments/verify/WBFYD7GI20XT)
-- TUM EMBA, Leadership and Cooperation - 2025 - On Request
-- Offensive Security Certified Professional (OSCP) Course – 2024 - On Request
+- University of Maryland (UMD), Fundamentals of Technology Sales - 2026 - [Link](https://coursera.org/share/5af2fb3910ea75afc13f34b50ca7ee3d)
+- Anthropic, Claude 101 - [Link](https://verify.skilljar.com/c/9onqcjfi9y3m)
+- Anthropic, AI Fluency: Framework and Foundations - 2026 - [Link](https://verify.skilljar.com/c/bwygvcm8i7hu)
+- Anthropic, Introduction to Model Context Protocol - 2026 - [Link](https://verify.skilljar.com/c/2at8x6rszr8i)
+- Google, AI Professional Certificate - 2026 - [Link](https://coursera.org/share/df7ab5d369916c850740311ff4cb646c)
+- IBM, ETL and Data Pipelines with Shell, Airflow and Kafka - 2025 - [Link](https://www.coursera.org/account/accomplishments/verify/WBFYD7GI20XT)
+- Technical University Munich (TUM), EMBA, Leadership and Cooperation - 2025 - On Request
+- Offensive Security, Certified Professional (OSCP) Course – 2024 - On Request
 - Rochester Institute of Technology (RITx), Computer Forensics - 2024 - [Link](https://courses.edx.org/certificates/d7725b26f2b148cabf5bbf5e4df8ad72)
-- IBM Generative AI for Cybersecurity Certificate – 2024 - [Link](https://coursera.org/share/529cc9a4e73dfcd207080d3f67082f68)
-- IBM Penetration Testing and Incident Response Certificate - 2024 - [Link](https://courses.edx.org/certificates/f9e32b6a7aa7490d918fcdc12c6ec7b5)
-- IBM DevOps and Software Engineering Certificate - 2023 - [Link](https://coursera.org/share/1b20a42c0989eed50fc97bf2a8ce3720)
-- IBM Applied DevOps Engineering Certificate - 2023 - [Link](https://coursera.org/share/ebbf6e0a5e60800e8c2b59e8083e6455)
-- Microsoft Cybersecurity Analyst – 2023 - On Request
-- Google Cybersecurity Certificate – 2023 - [Link](https://coursera.org/share/2f9813f2830bcbc9a352b46d5fb4e1f0)
-- IBM Security Analyst Fundamentals Certificate - 2023 - [Link](https://coursera.org/share/979a1376ef805947d17cc42324812d34)
-- IBM Cybersecurity Analyst Certificate - 2023 - [Link](https://coursera.org/share/ae9fc297516aabdac286cd648d54599d)
-- Google Project Management Certificate - Scrum/agile project management - 2022 - [Link](https://coursera.org/share/175d26dcdaf19c5c732a1632431a0fd5)
-- TÜV SÜD DSGVO / GDPR Specialist Certificate – 2021 - On Request
-- Certified Information Systems Security Professional (CISSP) Course - 2020 - On Request
+- IBM, Generative AI for Cybersecurity Certificate – 2024 - [Link](https://coursera.org/share/529cc9a4e73dfcd207080d3f67082f68)
+- IBM, Penetration Testing and Incident Response Certificate - 2024 - [Link](https://courses.edx.org/certificates/f9e32b6a7aa7490d918fcdc12c6ec7b5)
+- IBM, DevOps and Software Engineering Certificate - 2023 - [Link](https://coursera.org/share/1b20a42c0989eed50fc97bf2a8ce3720)
+- IBM, Applied DevOps Engineering Certificate - 2023 - [Link](https://coursera.org/share/ebbf6e0a5e60800e8c2b59e8083e6455)
+- Microsoft, Cybersecurity Analyst – 2023 - On Request
+- Google, Cybersecurity Certificate – 2023 - [Link](https://coursera.org/share/2f9813f2830bcbc9a352b46d5fb4e1f0)
+- IBM, Security Analyst Fundamentals Certificate - 2023 - [Link](https://coursera.org/share/979a1376ef805947d17cc42324812d34)
+- IBM, Cybersecurity Analyst Certificate - 2023 - [Link](https://coursera.org/share/ae9fc297516aabdac286cd648d54599d)
+- Google, Project Management Certificate - Scrum/agile project management - 2022 - [Link](https://coursera.org/share/175d26dcdaf19c5c732a1632431a0fd5)
+- TÜV SÜD, DSGVO / GDPR Specialist Certificate – 2021 - On Request
+- Certified Information Systems Security Professional (CISSP) Course - On Request
+- Certified Information Security Manager (CISM) Course - On Request
 - More certificates can be found here: [https://www.credly.com/users/jan-kalbantner](https://www.credly.com/users/jan-kalbantner)  
 
 ### Publications

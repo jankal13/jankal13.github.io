@@ -83,6 +83,14 @@ Ingelfingen, Germany | On-Site
 
 
 
+#### Developer
+*August 2011 - June 2013*
+
++ Engineered and delivered full-stack web applications using HTML, CSS, and JavaScript, translating client requirements into functional, user-centric digital solutions across multiple projects.
++ Designed and implemented responsive, standards-compliant front-end interfaces, ensuring cross-browser compatibility and an optimized user experience for diverse stakeholders.
++ Owned the end-to-end web development lifecycle, from initial requirements gathering and architecture through to deployment, establishing repeatable delivery processes and building a strong technical foundation in modern web technologies.
+
+
 ### Education
 
 #### Executive MBA (EMBA) in Business and IT (Ongoing)

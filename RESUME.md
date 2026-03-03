@@ -8,7 +8,7 @@ Bridging Technical Risk & Business Strategy
 [Email me](mailto:acetate_segue3d@icloud.com) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
 ### Professional Summary
-Technical Leader with over a dozen years of experience bridging digital-native AI innovations with traditional enterprise needs in highly regulated industries (FSI, Automotive, Critical Infrastructure). Passionate about deploying reliable, interpretable and societally beneficial systems. Expert at leading pre-sales & post-sales technical teams, co-building Go-To-Market strategies and scoping complex enterprise AI and security architectures. Proven track record of navigating complex organizational structures to validate technical ROI, build C-suite consensus and drive commercial growth globally.
+Technical Leader with 15+ years of experience bridging digital-native AI innovations with traditional enterprise needs in highly regulated industries (FSI, Automotive, Critical Infrastructure). Passionate about deploying reliable, interpretable and societally beneficial systems. Expert at leading pre-sales & post-sales technical teams, co-building Go-To-Market strategies and scoping complex enterprise AI and security architectures. Proven track record of navigating complex organizational structures to validate technical ROI, build C-suite consensus and drive commercial growth globally.
 
 
 ### Core Competencies
@@ -83,7 +83,8 @@ Ingelfingen, Germany | On-Site
 
 
 
-#### Developer
+#### Software Engineer, Freelance
+Germany | Remote  
 *August 2011 - June 2013*
 
 + Engineered and delivered full-stack web applications using HTML, CSS, and JavaScript, translating client requirements into functional, user-centric digital solutions across multiple projects.

@@ -141,6 +141,7 @@ Germany | Remote
 
 ### Certifications
 
+- Google Cloud, Extend Gemini with controlled generation and Tool use - 2026 - [Link](https://www.credly.com/badges/c51f9f05-37ba-4241-8ed5-e2aa02a5c245/public_url)
 - University of Maryland (UMD), Fundamentals of Technology Sales - 2026 - [Link](https://coursera.org/share/5af2fb3910ea75afc13f34b50ca7ee3d)
 - Anthropic, Claude 101 - [Link](https://verify.skilljar.com/c/9onqcjfi9y3m)
 - Anthropic, AI Fluency: Framework and Foundations - 2026 - [Link](https://verify.skilljar.com/c/bwygvcm8i7hu)

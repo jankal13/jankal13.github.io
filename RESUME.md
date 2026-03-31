@@ -94,7 +94,7 @@ Germany | Remote
 
 ### Education
 
-#### Executive MBA (EMBA) in Business and IT (Ongoing)
+#### Executive MBA (EMBA) in Business and IT (Expected 2027)
 *Technical University Munich (TUM), Germany*
 
 + Focus: "Leadership & Cooperation"
@@ -109,7 +109,7 @@ Germany | Remote
 
 + Focus: Cybersecurity, Applied Information Security, Research
 
-#### Advanced Postgraduate Coursework: AI & Big Data
+#### MSc Coursework: AI & Big Data
 *University of Heidelberg, Germany*  
 
 + Completed specialized Master's level modules in Artificial Intelligence and Big Data as part of the Applied Computer Science MSc program to deepen technical expertise in frontier technologies.
@@ -141,6 +141,10 @@ Germany | Remote
 
 ### Certifications
 
+- ServiceNow Certified Implementation Specialist (CIS) – Security Operations (Ongoing)
+- ServiceNow Certified System Administrator (CSA) (Ongoing)
+- Anthropic, Claude with Google Cloud's Vertex AI (Ongoing)
+- ServiceNow Pre-Sales Expert Security Black Belt - 2026 - On Request
 - Google Cloud, Extend Gemini with controlled generation and Tool use - 2026 - [Link](https://www.credly.com/badges/c51f9f05-37ba-4241-8ed5-e2aa02a5c245/public_url)
 - University of Maryland (UMD), Fundamentals of Technology Sales - 2026 - [Link](https://coursera.org/share/5af2fb3910ea75afc13f34b50ca7ee3d)
 - Anthropic, Claude 101 - [Link](https://verify.skilljar.com/c/9onqcjfi9y3m)

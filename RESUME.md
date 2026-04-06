@@ -112,15 +112,17 @@ Germany | Remote
 ### Technical Skills & Programming Capabilities
 
 * **Security Architecture & Operations:** Endpoint, Network, Cloud, and Application Security; Account and Device Integrity; UEBA (Abuse prevention); Identity Access Management (IAM); Privileged Access Management (PAM); Zero Trust; AI Security; AI/LLM SecOps
-* **Security Tooling:** * *SAST/DAST:* Snyk, SonarQube, SonarCloud
-    * *SIEM/SOAR:* QRadar, Sentinel, Splunk, Chronicle
-    * *Enterprise & Cloud Native:* Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security, AWS (GuardDuty, Macie, Inspector, Security Hub), Microsoft (Defender XDR, Defender for Cloud, Entra ID, Azure Firewall)
+* **Security Tooling:** 
+  + *SAST/DAST:* Snyk, SonarQube, SonarCloud
+  + *SIEM/SOAR:* QRadar, Sentinel, Splunk, Chronicle
+  + *Enterprise & Cloud Native:* Palo Alto (NGFW, CASB, DLP, Prisma Cloud), Trellix, CyberArk, Tenable, Nessus, Aqua Security, AWS (GuardDuty, Macie, Inspector, Security Hub), Microsoft (Defender XDR, Defender for Cloud, Entra ID, Azure Firewall)
 * **Applied AI, LLMs & Data Science:** Prompt Engineering, LLM Evaluation, Enterprise AI Deployments, API Integrations, Production LLM Use Cases, AI System Architecture, Natural Language Processing (NLP), Deep Learning, Model Benchmarking, Conversational Applications
 * **AI Ecosystems & Models:** Claude (Enterprise, Code, API), Google Vertex AI / Gemini AI Studio, OpenAI, Copilot AI Studio, Kimi, Mistral
 * **Cloud Platforms & DevOps:** AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud | Kubernetes, Docker, Terraform, Pulumi, Microsoft Azure Blueprints
 * **Standards, Regulations & Privacy:** ISO/IEC 27001, ISO/SAE 21434, ISO/IEC 42001, GDPR, EU AI Act, OWASP Top 10, BSI 200 series, NIST 800-53 Rev. 5, FINMA, EBA, MaRisk, PCI DSS, DORA, NIS2, TISAX VDA ISA, CRA | Data Protection Officer (GDPR Specialist), TÜV SÜD
-* **Programming & Scripting:** * *Backend & Frontend:* C#, Python, R, Go, JavaScript, TypeScript
-    * *Mobile & Scripting:* Kotlin, Java, Swift, PowerShell, SQL, KQL (Kusto Query Language)
+* **Programming & Scripting:** 
+   + *Backend & Frontend:* C#, Python, R, Go, JavaScript, TypeScript
+   + *Mobile & Scripting:* Kotlin, Java, Swift, PowerShell, SQL, KQL (Kusto Query Language)
 * **Frameworks & Libraries:** .NET, Vue.js, Next.js, Tensorflow, PyTorch, TruLens, Scikit-Learn, Keras, CNTK, Apache Spark, Pandas
 
 

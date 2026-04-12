@@ -1,5 +1,4 @@
-# Jan Kalbantner, PhD
-Bridging Technical Risk & Business Strategy
+# Jan Kalbantner
 
 [Email me](mailto:acetate_segue3d@icloud.com) | [kalbantner.com](https://www.kalbantner.com) | [linkedin.com/in/jankalbantner](https://www.linkedin.com/in/jankalbantner/)
 
